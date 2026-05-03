@@ -17,16 +17,13 @@ def fetch_json(url):
 
 
 def get_best_url(stream_links):
-    """Lấy URL tốt nhất từ stream_links, ưu tiên HLS default=true"""
     if not stream_links:
         return None
-    # Ưu tiên link có default=true
     for lnk in stream_links:
-        if lnk.get("default") is True and lnk.get("url", "").startswith("http"):
+        if lnk.get("default") is True and str(lnk.get("url", "")).startswith("http"):
             return lnk["url"]
-    # Nếu không có default, lấy link đầu tiên có URL hợp lệ
     for lnk in stream_links:
-        if lnk.get("url", "").startswith("http"):
+        if str(lnk.get("url", "")).startswith("http"):
             return lnk["url"]
     return None
 
@@ -34,57 +31,53 @@ def get_best_url(stream_links):
 def extract_channels(data):
     channels = []
 
-    # Root là dict có key "channels"
-    if isinstance(data, dict):
-        items = data.get("channels", [])
-    elif isinstance(data, list):
-        items = data
-    else:
-        return channels
+    groups = data.get("groups", [])
+    print(f"[*] So nhom (groups): {len(groups)}")
 
-    for item in items:
-        if not isinstance(item, dict):
-            continue
+    for group in groups:
+        group_name = group.get("name", "The thao").strip()
+        # Bỏ emoji khỏi tên nhóm nếu cần
+        group_name = group_name.encode("ascii", "ignore").decode() or group_name
 
-        name    = item.get("name", "Kenh")
-        logo    = item.get("image", "") or item.get("logo", "") or item.get("thumb_key", "")
-        display = item.get("display", "contain")
+        ch_list = group.get("channels", [])
+        print(f"  [group] '{group_name}' - {len(ch_list)} kenh")
 
-        # Lấy tên nhóm từ org_metadata nếu có
-        org  = item.get("org_metadata") or {}
-        league = org.get("league", "") if isinstance(org, dict) else ""
-        group  = league or "The thao"
+        for ch in ch_list:
+            ch_name = ch.get("name", "Kenh").strip()
+            ch_logo = (ch.get("image") or {}).get("url", "") if isinstance(ch.get("image"), dict) else ""
 
-        # Lấy danh sách streams
-        streams = item.get("streams", [])
-        if not streams:
-            # Thử lấy URL trực tiếp nếu có
-            direct = item.get("url") or item.get("stream_url") or item.get("src")
-            if direct and direct.startswith("http"):
-                channels.append({"name": name, "url": direct, "logo": logo, "group": group})
-            continue
+            sources = ch.get("sources", [])
+            added = False
 
-        # Mỗi stream có stream_links
-        added = False
-        for stream in streams:
-            if not isinstance(stream, dict):
-                continue
-            stream_links = stream.get("stream_links", [])
-            url = get_best_url(stream_links)
-            if url:
-                stream_name = stream.get("name", "")
-                display_name = f"{name} ({stream_name})" if stream_name and stream_name != "KT" else name
-                channels.append({
-                    "name":  display_name,
-                    "url":   url,
-                    "logo":  logo,
-                    "group": group,
-                })
-                added = True
-                break  # Chỉ lấy stream đầu tiên có URL hợp lệ
+            for src in sources:
+                src_name = src.get("name", "")
+                contents = src.get("contents", [])
 
-        if not added:
-            print(f"  [skip] {name} - khong co URL hop le")
+                for content in contents:
+                    streams = content.get("streams", [])
+
+                    for stream in streams:
+                        stream_links = stream.get("stream_links", [])
+                        url = get_best_url(stream_links)
+
+                        if url:
+                            display = f"{ch_name}"
+                            channels.append({
+                                "name":  display,
+                                "url":   url,
+                                "logo":  ch_logo,
+                                "group": group_name if group_name else "The thao",
+                            })
+                            added = True
+                            break  # Chỉ lấy stream đầu tiên có URL
+
+                    if added:
+                        break
+                if added:
+                    break
+
+            if not added:
+                print(f"    [skip] '{ch_name}' - khong co URL")
 
     return channels
 
@@ -98,15 +91,15 @@ def main():
         sys.exit(1)
 
     channels = extract_channels(data)
-    print(f"[+] Tong so kenh: {len(channels)}")
+    print(f"\n[+] Tong so kenh hop le: {len(channels)}")
 
     if not channels:
-        print("[!] Khong tim thay kenh nao!")
+        print("[!] Khong co kenh nao!")
         sys.exit(1)
 
-    print("[*] Mau 5 kenh dau:")
+    print("[*] 5 kenh dau:")
     for ch in channels[:5]:
-        print(f"    {ch['name']} | {ch['group']} | {ch['url'][:60]}")
+        print(f"    {ch['name']} | {ch['group']} | {ch['url'][:70]}")
 
     now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
     lines = [
@@ -123,7 +116,8 @@ def main():
     with open(out, "w", encoding="utf-8") as f:
         f.write("\n".join(lines) + "\n")
 
-    print(f"[OK] Luu: {out} ({os.path.getsize(out)/1024:.1f} KB)")
+    size = os.path.getsize(out) / 1024
+    print(f"[OK] Luu thanh cong: {out} ({size:.1f} KB) - {len(channels)} kenh")
 
 
 if __name__ == "__main__":
