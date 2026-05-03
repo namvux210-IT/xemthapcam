@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 import json
 import urllib.request
-import urllib.error
 import os
 import sys
 from datetime import datetime, timezone
@@ -9,89 +8,106 @@ from datetime import datetime, timezone
 JSON_URL      = "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thapcam.json"
 OUTPUT_FILE   = "thapcam.m3u"
 PLAYLIST_NAME = "ThapCam Live Sports"
-DEFAULT_GROUP = "The thao"
-
-NAME_FIELDS  = ["name", "title", "channel_name", "channel", "ten", "label"]
-URL_FIELDS   = ["url", "stream", "link", "stream_url", "m3u_url", "source", "src", "hls", "hls_url"]
-LOGO_FIELDS  = ["logo", "icon", "thumb", "thumbnail", "image", "img"]
-GROUP_FIELDS = ["group", "category", "sport", "type", "group-title", "genre", "display"]
 
 
 def fetch_json(url):
-    print(f"[*] Fetching: {url}")
     req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
     with urllib.request.urlopen(req, timeout=30) as resp:
-        data = json.loads(resp.read().decode("utf-8"))
-    print(f"[+] Fetched OK - type={type(data).__name__}")
-    return data
+        return json.loads(resp.read().decode("utf-8"))
 
 
-def detect_field(sample, candidates):
-    keys_lower = {k.lower(): k for k in sample.keys()}
-    for c in candidates:
-        if c in sample:
-            return c
-        if c.lower() in keys_lower:
-            return keys_lower[c.lower()]
+def get_best_url(stream_links):
+    """Lấy URL tốt nhất từ stream_links, ưu tiên HLS default=true"""
+    if not stream_links:
+        return None
+    # Ưu tiên link có default=true
+    for lnk in stream_links:
+        if lnk.get("default") is True and lnk.get("url", "").startswith("http"):
+            return lnk["url"]
+    # Nếu không có default, lấy link đầu tiên có URL hợp lệ
+    for lnk in stream_links:
+        if lnk.get("url", "").startswith("http"):
+            return lnk["url"]
     return None
 
 
-def get_val(item, field):
-    if not field or field not in item:
-        return ""
-    val = item[field]
-    if isinstance(val, list):
-        val = val[0] if val else ""
-    return str(val).strip() if val is not None else ""
-
-
-def collect_channels(data):
-    """
-    Thu thập tất cả kênh từ JSON dù cấu trúc phẳng hay lồng nhau.
-    Hỗ trợ:
-      - Mảng phẳng: [{name, url}, ...]
-      - Object có key chứa mảng: {channels: [{...}]}
-      - Mảng các nhóm lồng nhau: [{name, channels: [{url,...}]}]
-    """
+def extract_channels(data):
     channels = []
 
-    def walk(obj, group_name=None):
-        if isinstance(obj, list):
-            for item in obj:
-                walk(item, group_name)
-        elif isinstance(obj, dict):
-            # Kiểm tra nếu item này có field URL -> đây là kênh
-            url_f = detect_field(obj, URL_FIELDS)
-            if url_f:
-                url = get_val(obj, url_f)
-                if url and url.startswith(("http", "rtmp", "rtsp")):
-                    name_f  = detect_field(obj, NAME_FIELDS)
-                    logo_f  = detect_field(obj, LOGO_FIELDS)
-                    group_f = detect_field(obj, GROUP_FIELDS)
-                    channels.append({
-                        "name":  get_val(obj, name_f)  or "Kenh",
-                        "url":   url,
-                        "logo":  get_val(obj, logo_f)  or "",
-                        "group": group_name or get_val(obj, group_f) or DEFAULT_GROUP,
-                    })
-                    return
+    # Root là dict có key "channels"
+    if isinstance(data, dict):
+        items = data.get("channels", [])
+    elif isinstance(data, list):
+        items = data
+    else:
+        return channels
 
-            # Không có URL -> tìm key nào là list để đệ quy vào
-            # Lấy tên nhóm từ field name nếu có
-            grp = group_name
-            name_f = detect_field(obj, NAME_FIELDS)
-            if name_f:
-                grp = get_val(obj, name_f) or group_name
+    for item in items:
+        if not isinstance(item, dict):
+            continue
 
-            for key, val in obj.items():
-                if isinstance(val, (list, dict)):
-                    walk(val, grp)
+        name    = item.get("name", "Kenh")
+        logo    = item.get("image", "") or item.get("logo", "") or item.get("thumb_key", "")
+        display = item.get("display", "contain")
 
-    walk(data)
+        # Lấy tên nhóm từ org_metadata nếu có
+        org  = item.get("org_metadata") or {}
+        league = org.get("league", "") if isinstance(org, dict) else ""
+        group  = league or "The thao"
+
+        # Lấy danh sách streams
+        streams = item.get("streams", [])
+        if not streams:
+            # Thử lấy URL trực tiếp nếu có
+            direct = item.get("url") or item.get("stream_url") or item.get("src")
+            if direct and direct.startswith("http"):
+                channels.append({"name": name, "url": direct, "logo": logo, "group": group})
+            continue
+
+        # Mỗi stream có stream_links
+        added = False
+        for stream in streams:
+            if not isinstance(stream, dict):
+                continue
+            stream_links = stream.get("stream_links", [])
+            url = get_best_url(stream_links)
+            if url:
+                stream_name = stream.get("name", "")
+                display_name = f"{name} ({stream_name})" if stream_name and stream_name != "KT" else name
+                channels.append({
+                    "name":  display_name,
+                    "url":   url,
+                    "logo":  logo,
+                    "group": group,
+                })
+                added = True
+                break  # Chỉ lấy stream đầu tiên có URL hợp lệ
+
+        if not added:
+            print(f"  [skip] {name} - khong co URL hop le")
+
     return channels
 
 
-def build_m3u(channels):
+def main():
+    print(f"[*] Fetching {JSON_URL}")
+    try:
+        data = fetch_json(JSON_URL)
+    except Exception as e:
+        print(f"[!] Loi fetch: {e}")
+        sys.exit(1)
+
+    channels = extract_channels(data)
+    print(f"[+] Tong so kenh: {len(channels)}")
+
+    if not channels:
+        print("[!] Khong tim thay kenh nao!")
+        sys.exit(1)
+
+    print("[*] Mau 5 kenh dau:")
+    for ch in channels[:5]:
+        print(f"    {ch['name']} | {ch['group']} | {ch['url'][:60]}")
+
     now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
     lines = [
         f'#EXTM3U x-playlist-title="{PLAYLIST_NAME}"',
@@ -102,33 +118,12 @@ def build_m3u(channels):
             f'#EXTINF:-1 tvg-name="{ch["name"]}" tvg-logo="{ch["logo"]}" group-title="{ch["group"]}",{ch["name"]}'
         )
         lines.append(ch["url"])
-    return "\n".join(lines) + "\n"
 
-
-def main():
-    try:
-        data = fetch_json(JSON_URL)
-    except Exception as e:
-        print(f"[!] Loi fetch: {e}")
-        sys.exit(1)
-
-    channels = collect_channels(data)
-    print(f"[+] Tong kenh tim duoc: {len(channels)}")
-
-    if not channels:
-        print("[!] Khong tim thay kenh nao co URL hop le!")
-        sys.exit(1)
-
-    # In vài kênh mẫu để kiểm tra
-    for ch in channels[:3]:
-        print(f"    -> {ch['name']} | {ch['group']} | {ch['url'][:60]}")
-
-    m3u = build_m3u(channels)
     out = os.path.join(os.path.dirname(os.path.abspath(__file__)), OUTPUT_FILE)
     with open(out, "w", encoding="utf-8") as f:
-        f.write(m3u)
+        f.write("\n".join(lines) + "\n")
 
-    print(f"[OK] Luu thanh cong: {out} ({os.path.getsize(out)/1024:.1f} KB)")
+    print(f"[OK] Luu: {out} ({os.path.getsize(out)/1024:.1f} KB)")
 
 
 if __name__ == "__main__":
