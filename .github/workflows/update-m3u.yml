@@ -1,1 +1,34 @@
+name: Update M3U Playlist
+
+on:
+  schedule:
+    # Chạy mỗi 15 phút — đủ nhanh cho link trực tiếp thể thao
+    - cron: '*/15 * * * *'
+  # Cho phép chạy thủ công từ tab Actions trên GitHub
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Run converter
+        run: python3 convert.py
+
+      - name: Commit & push nếu có thay đổi
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "auto: cập nhật thapcam.m3u [$(date -u '+%Y-%m-%d %H:%M UTC')]"
+          file_pattern: thapcam.m3u
+          commit_author: "github-actions[bot] <github-actions[bot]@users.noreply.github.com>"
 
