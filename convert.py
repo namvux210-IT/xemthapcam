@@ -16,61 +16,76 @@ def fetch_json(url):
         return json.loads(resp.read().decode("utf-8"))
 
 
-def get_best_url(stream_links):
+def get_headers(stream_links_item):
+    """Lấy Referer và User-Agent từ request_headers nếu có"""
+    referer = ""
+    ua = "Mozilla/5.0"
+    headers = stream_links_item.get("request_headers", [])
+    if isinstance(headers, list):
+        for h in headers:
+            k = h.get("key", "").lower()
+            v = h.get("value", "")
+            if k == "referer":
+                referer = v
+            elif k == "user-agent":
+                ua = v
+    return referer, ua
+
+
+def get_best_link(stream_links):
+    """Lấy link tốt nhất (default=true trước), trả về (url, referer, ua)"""
     if not stream_links:
-        return None
+        return None, "", ""
+    # Ưu tiên default=true
     for lnk in stream_links:
         if lnk.get("default") is True and str(lnk.get("url", "")).startswith("http"):
-            return lnk["url"]
+            ref, ua = get_headers(lnk)
+            return lnk["url"], ref, ua
+    # Fallback link đầu tiên có URL
     for lnk in stream_links:
         if str(lnk.get("url", "")).startswith("http"):
-            return lnk["url"]
-    return None
+            ref, ua = get_headers(lnk)
+            return lnk["url"], ref, ua
+    return None, "", ""
 
 
 def extract_channels(data):
     channels = []
-
     groups = data.get("groups", [])
-    print(f"[*] So nhom (groups): {len(groups)}")
+    print(f"[*] So nhom: {len(groups)}")
 
     for group in groups:
-        group_name = group.get("name", "The thao").strip()
-        # Bỏ emoji khỏi tên nhóm nếu cần
-        group_name = group_name.encode("ascii", "ignore").decode() or group_name
-
+        group_name = group.get("name", "The thao")
+        # Giữ emoji trong tên nhóm
         ch_list = group.get("channels", [])
         print(f"  [group] '{group_name}' - {len(ch_list)} kenh")
 
         for ch in ch_list:
             ch_name = ch.get("name", "Kenh").strip()
-            ch_logo = (ch.get("image") or {}).get("url", "") if isinstance(ch.get("image"), dict) else ""
+            img = ch.get("image")
+            ch_logo = img.get("url", "") if isinstance(img, dict) else ""
 
             sources = ch.get("sources", [])
             added = False
 
             for src in sources:
-                src_name = src.get("name", "")
                 contents = src.get("contents", [])
-
                 for content in contents:
                     streams = content.get("streams", [])
-
                     for stream in streams:
                         stream_links = stream.get("stream_links", [])
-                        url = get_best_url(stream_links)
-
+                        url, referer, ua = get_best_link(stream_links)
                         if url:
-                            display = f"{ch_name}"
                             channels.append({
-                                "name":  display,
-                                "url":   url,
-                                "logo":  ch_logo,
-                                "group": group_name if group_name else "The thao",
+                                "name":    ch_name,
+                                "url":     url,
+                                "logo":    ch_logo,
+                                "group":   group_name,
+                                "referer": referer,
+                                "ua":      ua,
                             })
                             added = True
-                            break  # Chỉ lấy stream đầu tiên có URL
-
+                            break
                     if added:
                         break
                 if added:
@@ -82,6 +97,41 @@ def extract_channels(data):
     return channels
 
 
+def build_m3u(channels):
+    now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+    lines = [
+        f'#EXTM3U x-playlist-title="{PLAYLIST_NAME}"',
+        f'# Cap nhat: {now} | Nguon: {JSON_URL}',
+    ]
+    for ch in channels:
+        url = ch["url"]
+
+        # Nhúng header vào URL theo chuẩn M3U
+        # Cách 1: dùng pipe |, hỗ trợ bởi TiviMate, IPTV Smarters
+        extra = ""
+        if ch["referer"]:
+            extra += f"|Referer={ch['referer']}"
+        if ch["ua"]:
+            extra += f"|User-Agent={ch['ua']}"
+
+        extinf = (
+            f'#EXTINF:-1'
+            f' tvg-name="{ch["name"]}"'
+            f' tvg-logo="{ch["logo"]}"'
+            f' group-title="{ch["group"]}"'
+        )
+        if ch["referer"]:
+            extinf += f' http-referrer="{ch["referer"]}"'
+        if ch["ua"]:
+            extinf += f' http-user-agent="{ch["ua"]}"'
+        extinf += f',{ch["name"]}'
+
+        lines.append(extinf)
+        lines.append(url + extra)
+
+    return "\n".join(lines) + "\n"
+
+
 def main():
     print(f"[*] Fetching {JSON_URL}")
     try:
@@ -91,33 +141,22 @@ def main():
         sys.exit(1)
 
     channels = extract_channels(data)
-    print(f"\n[+] Tong so kenh hop le: {len(channels)}")
+    print(f"\n[+] Tong kenh: {len(channels)}")
 
     if not channels:
         print("[!] Khong co kenh nao!")
         sys.exit(1)
 
-    print("[*] 5 kenh dau:")
-    for ch in channels[:5]:
-        print(f"    {ch['name']} | {ch['group']} | {ch['url'][:70]}")
+    print("[*] 3 kenh dau:")
+    for ch in channels[:3]:
+        print(f"    {ch['name']} | ref={ch['referer'][:40] if ch['referer'] else 'none'}")
 
-    now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
-    lines = [
-        f'#EXTM3U x-playlist-title="{PLAYLIST_NAME}"',
-        f'# Cap nhat: {now} | Nguon: {JSON_URL}',
-    ]
-    for ch in channels:
-        lines.append(
-            f'#EXTINF:-1 tvg-name="{ch["name"]}" tvg-logo="{ch["logo"]}" group-title="{ch["group"]}",{ch["name"]}'
-        )
-        lines.append(ch["url"])
-
+    m3u = build_m3u(channels)
     out = os.path.join(os.path.dirname(os.path.abspath(__file__)), OUTPUT_FILE)
     with open(out, "w", encoding="utf-8") as f:
-        f.write("\n".join(lines) + "\n")
+        f.write(m3u)
 
-    size = os.path.getsize(out) / 1024
-    print(f"[OK] Luu thanh cong: {out} ({size:.1f} KB) - {len(channels)} kenh")
+    print(f"[OK] Luu: {out} ({os.path.getsize(out)/1024:.1f} KB) - {len(channels)} kenh")
 
 
 if __name__ == "__main__":
