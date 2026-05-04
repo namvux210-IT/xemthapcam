@@ -1,6 +1,6 @@
 #EXTM3U x-playlist-title="ThapCam Live Sports"
-# Cap nhat: 2026-05-04 21:40 UTC
-#EXTINF:-1 tvg-name="⚽ Gimnasia y Esgrima de Mendoza vs Defensa Y Justicia | 03:00 05/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-1d38d2ee2cd0.webp?v=1777930456" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/gimnasia-y-esgrima-de-mendoza-vs-defensa-y-justicia-0300-05-05-2026/451446" http-user-agent="Mozilla/5.0",⚽ Gimnasia y Esgrima de Mendoza vs Defensa Y Justicia | 03:00 05/05
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/gimnasia-y-esgrima-de-mendoza-vs-defensa-y-justicia-0300-05-05-2026/451446
+# Cap nhat: 2026-05-04 22:42 UTC
+#EXTINF:-1 tvg-name="⚽ Pitagoras Minas vs Corinthians | 05:00 05/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-83dce4ab04f3.webp?v=1777933466" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/pitagoras-minas-vs-corinthians-0500-05-05-2026/454497" http-user-agent="Mozilla/5.0",⚽ Pitagoras Minas vs Corinthians | 05:00 05/05
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/pitagoras-minas-vs-corinthians-0500-05-05-2026/454497
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn-hls.phogatv8.com/live/69f8f10551ddc_181/index.m3u8?expire=1778527109&sign=5641425ae6252309cc9c21ed0900739b
+https://live.alilicloud.com/live/5489fff319474134c3bdf7f4c510f367/playlist.m3u8
