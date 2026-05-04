@@ -1,50 +1,62 @@
 #EXTM3U x-playlist-title="ThapCam Live Sports"
-# Cap nhat: 2026-05-04 11:33 UTC
-#EXTINF:-1 tvg-name="⚽ Donna Vekic vs Aliona Falei | 16:00 04/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-adbf3a042c88.webp?v=1777893869" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/donna-vekic-vs-aliona-falei-1600-04-05-2026/458271" http-user-agent="Mozilla/5.0",⚽ Donna Vekic vs Aliona Falei | 16:00 04/05
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/donna-vekic-vs-aliona-falei-1600-04-05-2026/458271
+# Cap nhat: 2026-05-04 13:12 UTC
+#EXTINF:-1 tvg-name="⚽ Te Rigele vs Dane Sweeny | 18:00 04/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-453faf81e43d.webp?v=1777899890" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/te-rigele-vs-dane-sweeny-1800-04-05-2026/454998" http-user-agent="Mozilla/5.0",⚽ Te Rigele vs Dane Sweeny | 18:00 04/05
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/te-rigele-vs-dane-sweeny-1800-04-05-2026/454998
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.alilicloud.com/live/c3710e503e3d0f1276b7dd8250a1e18d/playlist.m3u8
-#EXTINF:-1 tvg-name="⚽ Aliaksandra Sasnovich vs Julia Grabher | 16:25 04/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-86f969fcdcf8.webp?v=1777893872" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/aliaksandra-sasnovich-vs-julia-grabher-1625-04-05-2026/458586" http-user-agent="Mozilla/5.0",⚽ Aliaksandra Sasnovich vs Julia Grabher | 16:25 04/05
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/aliaksandra-sasnovich-vs-julia-grabher-1625-04-05-2026/458586
+https://live.alilicloud.com/live/5d2c9bd06c3408ed718243e03d0d8462/playlist.m3u8
+#EXTINF:-1 tvg-name="⚽ Juan Cruz Martin Manzano vs Titouan Droguet | 18:20 04/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-83364b3d5eb5.webp?v=1777899891" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/juan-cruz-martin-manzano-vs-titouan-droguet-1820-04-05-2026/458604" http-user-agent="Mozilla/5.0",⚽ Juan Cruz Martin Manzano vs Titouan Droguet | 18:20 04/05
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/juan-cruz-martin-manzano-vs-titouan-droguet-1820-04-05-2026/458604
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.alilicloud.com/live/5d7cfaa185f0da4d9019531455fb714e/playlist.m3u8
-#EXTINF:-1 tvg-name="⚽ Stefano Travaglia vs Stan Wawrinka | 16:40 04/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-0a767ce87272.webp?v=1777893870" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/stefano-travaglia-vs-stan-wawrinka-1640-04-05-2026/458571" http-user-agent="Mozilla/5.0",⚽ Stefano Travaglia vs Stan Wawrinka | 16:40 04/05
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/stefano-travaglia-vs-stan-wawrinka-1640-04-05-2026/458571
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.alilicloud.com/live/8df8150131f0c1fba47528a06e281a0e/playlist.m3u8
-#EXTINF:-1 tvg-name="⚽ Georgia Pedone vs Simona Waltert | 16:50 04/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-b6ab8e781a4a.webp?v=1777893872" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/georgia-pedone-vs-simona-waltert-1650-04-05-2026/458589" http-user-agent="Mozilla/5.0",⚽ Georgia Pedone vs Simona Waltert | 16:50 04/05
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/georgia-pedone-vs-simona-waltert-1650-04-05-2026/458589
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.alilicloud.com/live/bc85efc383cf30a191c234d2d275f7e5/playlist.m3u8
-#EXTINF:-1 tvg-name="⚽ Tiantsoa Sarah Rakotomanga Rajaonah vs Alice Tubello | 17:05 04/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-b0c177a472b0.webp?v=1777893871" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/tiantsoa-sarah-rakotomanga-rajaonah-vs-alice-tubello-1705-04-05-2026/458277" http-user-agent="Mozilla/5.0",⚽ Tiantsoa Sarah Rakotomanga Rajaonah vs Alice Tubello | 17:05 04/05
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/tiantsoa-sarah-rakotomanga-rajaonah-vs-alice-tubello-1705-04-05-2026/458277
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.alilicloud.com/live/a44b9bcb33c86597aeda0dc156876db8/playlist.m3u8
-#EXTINF:-1 tvg-name="⚽ GenSan Warriors vs Iloilo United Royals | 17:30 04/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-50a2d2fbd0de.webp?v=1777893870" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/gensan-warriors-vs-iloilo-united-royals-1730-04-05-2026/443724" http-user-agent="Mozilla/5.0",⚽ GenSan Warriors vs Iloilo United Royals | 17:30 04/05
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/gensan-warriors-vs-iloilo-united-royals-1730-04-05-2026/443724
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.alilicloud.com/live/43b42209786bb0c91ccbe9e3dfa03b5a/playlist.m3u8
-#EXTINF:-1 tvg-name="⚽ Alina Korneeva vs Ella Seidel | 17:40 04/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-89ac704db6a5.webp?v=1777893870" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/alina-korneeva-vs-ella-seidel-1740-04-05-2026/458607" http-user-agent="Mozilla/5.0",⚽ Alina Korneeva vs Ella Seidel | 17:40 04/05
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/alina-korneeva-vs-ella-seidel-1740-04-05-2026/458607
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.alilicloud.com/live/654f702fa6f4f4bec0812f1b33f96635/playlist.m3u8
-#EXTINF:-1 tvg-name="⚽ Tereza Martincova vs Isabella Shinikova | 17:40 04/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-950e65366676.webp?v=1777893871" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/tereza-martincova-vs-isabella-shinikova-1740-04-05-2026/455040" http-user-agent="Mozilla/5.0",⚽ Tereza Martincova vs Isabella Shinikova | 17:40 04/05
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/tereza-martincova-vs-isabella-shinikova-1740-04-05-2026/455040
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.alilicloud.com/live/b10c9afd1d3b6f9d4e088b2e8e656f3e/playlist.m3u8
-#EXTINF:-1 tvg-name="⚽ Lilli Tagger vs Suzan Lamens | 18:05 04/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-329774f39929.webp?v=1777893872" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/lilli-tagger-vs-suzan-lamens-1805-04-05-2026/458622" http-user-agent="Mozilla/5.0",⚽ Lilli Tagger vs Suzan Lamens | 18:05 04/05
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/lilli-tagger-vs-suzan-lamens-1805-04-05-2026/458622
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.alilicloud.com/live/b5ecb5ab3d119167c7ed43590c437ca6/playlist.m3u8
-#EXTINF:-1 tvg-name="⚽ Albirex Niigata FC vs Young Lions | 18:30 04/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-27d605f5bf18.webp?v=1777893871" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/albirex-niigata-fc-vs-young-lions-1830-04-05-2026/450531" http-user-agent="Mozilla/5.0",⚽ Albirex Niigata FC vs Young Lions | 18:30 04/05
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/albirex-niigata-fc-vs-young-lions-1830-04-05-2026/450531
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8
-#EXTINF:-1 tvg-name="⚽ Vietnam U17 Women vs China U17 Women | 18:30 04/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-bf231ad57022.webp?v=1777893873" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/vietnam-u17-women-vs-china-u17-women-1830-04-05-2026/450534" http-user-agent="Mozilla/5.0",⚽ Vietnam U17 Women vs China U17 Women | 18:30 04/05
+https://live.alilicloud.com/live/fe4cae30ad3e423bb8cb355438b4a57c/playlist.m3u8
+#EXTINF:-1 tvg-name="⚽ Vietnam U17 Women vs China U17 Women | 18:30 04/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-bf231ad57022.webp?v=1777899892" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/vietnam-u17-women-vs-china-u17-women-1830-04-05-2026/450534" http-user-agent="Mozilla/5.0",⚽ Vietnam U17 Women vs China U17 Women | 18:30 04/05
 #EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/vietnam-u17-women-vs-china-u17-women-1830-04-05-2026/450534
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://cdn-hls.phogatv8.com/live/69f879c051ddc_151/index.m3u8?expire=1778496576&sign=0de44cba627033e4f7a589456e821e38
-#EXTINF:-1 tvg-name="⚽ Persijap Jepara vs Persija Jakarta | 19:00 04/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-fb377aafcbb7.webp?v=1777893873" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/persijap-jepara-vs-persija-jakarta-1900-04-05-2026/450549" http-user-agent="Mozilla/5.0",⚽ Persijap Jepara vs Persija Jakarta | 19:00 04/05
+#EXTINF:-1 tvg-name="⚽ Albirex Niigata FC vs Young Lions | 18:30 04/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-27d605f5bf18.webp?v=1777899893" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/albirex-niigata-fc-vs-young-lions-1830-04-05-2026/450531" http-user-agent="Mozilla/5.0",⚽ Albirex Niigata FC vs Young Lions | 18:30 04/05
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/albirex-niigata-fc-vs-young-lions-1830-04-05-2026/450531
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cdn-hls.phogatv8.com/live/69f8823851ddc_14/index.m3u8?expire=1778498744&sign=378d5e1164572cb450c557d55cc3e69f
+#EXTINF:-1 tvg-name="⚽ Alycia Parks vs Dalma Galfi | 18:45 04/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-1d16f7770db3.webp?v=1777899888" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/alycia-parks-vs-dalma-galfi-1845-04-05-2026/458613" http-user-agent="Mozilla/5.0",⚽ Alycia Parks vs Dalma Galfi | 18:45 04/05
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/alycia-parks-vs-dalma-galfi-1845-04-05-2026/458613
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.alilicloud.com/live/eb063719e9081e1c91a0b57f456182da/playlist.m3u8
+#EXTINF:-1 tvg-name="⚽ Maria Camila Osorio Serrano vs Anhelina Kalinina | 18:55 04/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-ed2540a4b0dd.webp?v=1777899888" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/maria-camila-osorio-serrano-vs-anhelina-kalinina-1855-04-05-2026/458616" http-user-agent="Mozilla/5.0",⚽ Maria Camila Osorio Serrano vs Anhelina Kalinina | 18:55 04/05
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/maria-camila-osorio-serrano-vs-anhelina-kalinina-1855-04-05-2026/458616
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.alilicloud.com/live/ff0f9a5f3260af1414a7aa1110ee8609/playlist.m3u8
+#EXTINF:-1 tvg-name="⚽ Andrea Pellegrino vs Hugo Gaston | 18:55 04/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-807f6e01e1af.webp?v=1777899890" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/andrea-pellegrino-vs-hugo-gaston-1855-04-05-2026/458601" http-user-agent="Mozilla/5.0",⚽ Andrea Pellegrino vs Hugo Gaston | 18:55 04/05
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/andrea-pellegrino-vs-hugo-gaston-1855-04-05-2026/458601
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.alilicloud.com/live/fc5ae2d7c1e57f76a76bb38d80483a88/playlist.m3u8
+#EXTINF:-1 tvg-name="⚽ Persijap Jepara vs Persija Jakarta | 19:00 04/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-fb377aafcbb7.webp?v=1777899891" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/persijap-jepara-vs-persija-jakarta-1900-04-05-2026/450549" http-user-agent="Mozilla/5.0",⚽ Persijap Jepara vs Persija Jakarta | 19:00 04/05
 #EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/persijap-jepara-vs-persija-jakarta-1900-04-05-2026/450549
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cdn-hls.phogatv8.com/live/69f8878a51ddc_145/index.m3u8?expire=1778500106&sign=273b7f20c8dd66dd65e130ebd6adf4cd
+#EXTINF:-1 tvg-name="⚽ Emiliana Arango vs Noemi Basiletti | 19:20 04/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-6baa5da58ab4.webp?v=1777899893" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/emiliana-arango-vs-noemi-basiletti-1920-04-05-2026/458610" http-user-agent="Mozilla/5.0",⚽ Emiliana Arango vs Noemi Basiletti | 19:20 04/05
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/emiliana-arango-vs-noemi-basiletti-1920-04-05-2026/458610
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.alilicloud.com/live/c10b7914ed182315fec943cfaff7379a/playlist.m3u8
+#EXTINF:-1 tvg-name="⚽ Pasay Voyagers vs Imus Agimat | 19:30 04/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-6a14b1643d67.webp?v=1777899891" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/pasay-voyagers-vs-imus-agimat-1930-04-05-2026/443739" http-user-agent="Mozilla/5.0",⚽ Pasay Voyagers vs Imus Agimat | 19:30 04/05
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/pasay-voyagers-vs-imus-agimat-1930-04-05-2026/443739
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.alilicloud.com/live/2911d733f5c3c701e51af14189322740/playlist.m3u8
+#EXTINF:-1 tvg-name="⚽ Polina Iatcenko vs Storm Hunter | 19:55 04/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-89dc1e326c7b.webp?v=1777899894" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/polina-iatcenko-vs-storm-hunter-1955-04-05-2026/458283" http-user-agent="Mozilla/5.0",⚽ Polina Iatcenko vs Storm Hunter | 19:55 04/05
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/polina-iatcenko-vs-storm-hunter-1955-04-05-2026/458283
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.alilicloud.com/live/7a9e2cea4d8f36a599c67cbe24e8516b/playlist.m3u8
+#EXTINF:-1 tvg-name="⚽ Victoria Jimenez Kasintseva vs Sun Lulu | 20:00 04/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-594332e1c474.webp?v=1777899894" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/victoria-jimenez-kasintseva-vs-sun-lulu-2000-04-05-2026/458640" http-user-agent="Mozilla/5.0",⚽ Victoria Jimenez Kasintseva vs Sun Lulu | 20:00 04/05
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/victoria-jimenez-kasintseva-vs-sun-lulu-2000-04-05-2026/458640
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.alilicloud.com/live/96adbc8a01ccadfd6a46b2856fc1c084/playlist.m3u8
+#EXTINF:-1 tvg-name="⚽ Lokomotiv Tashkent vs Qizilqum Zarafshon | 21:00 04/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-4ac99c29eac5.webp?v=1777899889" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/lokomotiv-tashkent-vs-qizilqum-zarafshon-2100-04-05-2026/439971" http-user-agent="Mozilla/5.0",⚽ Lokomotiv Tashkent vs Qizilqum Zarafshon | 21:00 04/05
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/lokomotiv-tashkent-vs-qizilqum-zarafshon-2100-04-05-2026/439971
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8
+#EXTINF:-1 tvg-name="⚽ Pharco vs El Mokawloon El Arab | 21:00 04/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-e7ef83c9eafb.webp?v=1777899892" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/pharco-vs-el-mokawloon-el-arab-2100-04-05-2026/450597" http-user-agent="Mozilla/5.0",⚽ Pharco vs El Mokawloon El Arab | 21:00 04/05
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/pharco-vs-el-mokawloon-el-arab-2100-04-05-2026/450597
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8
+#EXTINF:-1 tvg-name="⚽ Chelsea vs Nottingham Forest | 21:00 04/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-d53f05083ff0.webp?v=1777899892" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/chelsea-vs-nottingham-forest-2100-04-05-2026/450588" http-user-agent="Mozilla/5.0",⚽ Chelsea vs Nottingham Forest | 21:00 04/05
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/chelsea-vs-nottingham-forest-2100-04-05-2026/450588
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8
