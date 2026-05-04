@@ -1,26 +1,6 @@
 #EXTM3U x-playlist-title="ThapCam Live Sports"
-# Cap nhat: 2026-05-04 20:24 UTC
-#EXTINF:-1 tvg-name="⚽ AS Roma vs Fiorentina | 01:45 05/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-8eec74bc08da.webp?v=1777926262" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/as-roma-vs-fiorentina-0145-05-05-2026/451434" http-user-agent="Mozilla/5.0",⚽ AS Roma vs Fiorentina | 01:45 05/05
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/as-roma-vs-fiorentina-0145-05-05-2026/451434
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn-hls.phogatv8.com/live/69f8db5f51ddc_35/index.m3u8?expire=1778521567&sign=6958144a0a766fd2f03a5a89342016fc
-#EXTINF:-1 tvg-name="⚽ Everton vs Manchester City | 02:00 05/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-df65c6aaf1f1.webp?v=1777926261" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/everton-vs-manchester-city-0200-05-05-2026/451437" http-user-agent="Mozilla/5.0",⚽ Everton vs Manchester City | 02:00 05/05
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/everton-vs-manchester-city-0200-05-05-2026/451437
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn-hls.phogatv8.com/live/69f8e5bb137e4_19533/index.m3u8?expire=1778524219&sign=905b30158f13fab790af706a9e40a66a
-#EXTINF:-1 tvg-name="⚽ Sevilla FC vs Real Sociedad | 02:00 05/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-1cc2cd6eddfa.webp?v=1777926262" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/sevilla-fc-vs-real-sociedad-0200-05-05-2026/451440" http-user-agent="Mozilla/5.0",⚽ Sevilla FC vs Real Sociedad | 02:00 05/05
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/sevilla-fc-vs-real-sociedad-0200-05-05-2026/451440
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn-hls.phogatv8.com/live/69f8e59b137e4_19092/index.m3u8?expire=1778524187&sign=97b44300811b0a6d5737deb11d6cf58a
-#EXTINF:-1 tvg-name="⚽ Sporting CP vs Vitoria Guimaraes | 02:15 05/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-bf4b895aaa88.webp?v=1777926262" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/sporting-cp-vs-vitoria-guimaraes-0215-05-05-2026/451443" http-user-agent="Mozilla/5.0",⚽ Sporting CP vs Vitoria Guimaraes | 02:15 05/05
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/sporting-cp-vs-vitoria-guimaraes-0215-05-05-2026/451443
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn-hls.phogatv8.com/live/69f8ec9c51ddc_145/index.m3u8?expire=1778525980&sign=3d250991254598d0ccc6cd1dc8df004c
-#EXTINF:-1 tvg-name="⚽ Valur Reykjavik vs U.M.F. Grindavik | 02:15 05/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-9d7431f85252.webp?v=1777926263" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/valur-reykjavik-vs-umf-grindavik-0215-05-05-2026/458973" http-user-agent="Mozilla/5.0",⚽ Valur Reykjavik vs U.M.F. Grindavik | 02:15 05/05
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/valur-reykjavik-vs-umf-grindavik-0215-05-05-2026/458973
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.alilicloud.com/live/c09eb08ee8ddb907b72182ea4b37b4c3/playlist.m3u8
-#EXTINF:-1 tvg-name="⚽ Gimnasia y Esgrima de Mendoza vs Defensa Y Justicia | 03:00 05/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-1d38d2ee2cd0.webp?v=1777926263" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/gimnasia-y-esgrima-de-mendoza-vs-defensa-y-justicia-0300-05-05-2026/451446" http-user-agent="Mozilla/5.0",⚽ Gimnasia y Esgrima de Mendoza vs Defensa Y Justicia | 03:00 05/05
+# Cap nhat: 2026-05-04 21:40 UTC
+#EXTINF:-1 tvg-name="⚽ Gimnasia y Esgrima de Mendoza vs Defensa Y Justicia | 03:00 05/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-1d38d2ee2cd0.webp?v=1777930456" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/gimnasia-y-esgrima-de-mendoza-vs-defensa-y-justicia-0300-05-05-2026/451446" http-user-agent="Mozilla/5.0",⚽ Gimnasia y Esgrima de Mendoza vs Defensa Y Justicia | 03:00 05/05
 #EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/gimnasia-y-esgrima-de-mendoza-vs-defensa-y-justicia-0300-05-05-2026/451446
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://cdn-hls.phogatv8.com/live/69f8f10551ddc_181/index.m3u8?expire=1778527109&sign=5641425ae6252309cc9c21ed0900739b
