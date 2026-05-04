@@ -1,6 +1,18 @@
 #EXTM3U x-playlist-title="ThapCam Live Sports"
-# Cap nhat: 2026-05-04 22:42 UTC
-#EXTINF:-1 tvg-name="⚽ Pitagoras Minas vs Corinthians | 05:00 05/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-83dce4ab04f3.webp?v=1777933466" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/pitagoras-minas-vs-corinthians-0500-05-05-2026/454497" http-user-agent="Mozilla/5.0",⚽ Pitagoras Minas vs Corinthians | 05:00 05/05
+# Cap nhat: 2026-05-04 23:39 UTC
+#EXTINF:-1 tvg-name="⚽ Pitagoras Minas vs Corinthians | 05:00 05/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-83dce4ab04f3.webp?v=1777937673" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/pitagoras-minas-vs-corinthians-0500-05-05-2026/454497" http-user-agent="Mozilla/5.0",⚽ Pitagoras Minas vs Corinthians | 05:00 05/05
 #EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/pitagoras-minas-vs-corinthians-0500-05-05-2026/454497
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live.alilicloud.com/live/5489fff319474134c3bdf7f4c510f367/playlist.m3u8
+#EXTINF:-1 tvg-name="⚽ E.c. Pinheiros Sao Paolo vs Paulistano Amil | 06:00 05/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-0d4c2f24626e.webp?v=1777937672" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/ec-pinheiros-sao-paolo-vs-paulistano-amil-0600-05-05-2026/454500" http-user-agent="Mozilla/5.0",⚽ E.c. Pinheiros Sao Paolo vs Paulistano Amil | 06:00 05/05
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/ec-pinheiros-sao-paolo-vs-paulistano-amil-0600-05-05-2026/454500
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.alilicloud.com/live/6b06a3c34ebd0a4efdab9b2ab1ab5bb5/playlist.m3u8
+#EXTINF:-1 tvg-name="⚽ New York Knicks vs Philadelphia 76ers | 07:00 05/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-6864e196dc6e.webp?v=1777937673" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/new-york-knicks-vs-philadelphia-76ers-0700-05-05-2026/457380" http-user-agent="Mozilla/5.0",⚽ New York Knicks vs Philadelphia 76ers | 07:00 05/05
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/new-york-knicks-vs-philadelphia-76ers-0700-05-05-2026/457380
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8
+#EXTINF:-1 tvg-name="⚽ Estudiantes Rio Cuarto vs Instituto de Córdoba | 07:30 05/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-10ba7324f486.webp?v=1777937674" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/estudiantes-rio-cuarto-vs-instituto-de-cordoba-0730-05-05-2026/451503" http-user-agent="Mozilla/5.0",⚽ Estudiantes Rio Cuarto vs Instituto de Córdoba | 07:30 05/05
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/estudiantes-rio-cuarto-vs-instituto-de-cordoba-0730-05-05-2026/451503
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8
