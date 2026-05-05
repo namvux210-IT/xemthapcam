@@ -1,22 +1,50 @@
 #EXTM3U x-playlist-title="ThapCam Live Sports"
-# Cap nhat: 2026-05-05 04:46 UTC
-#EXTINF:-1 tvg-name="⚽ Haruka Kaji vs Gao Xinyu | 10:00 05/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-56d41c74e33b.webp?v=1777955661" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/haruka-kaji-vs-gao-xinyu-1000-05-05-2026/457866" http-user-agent="Mozilla/5.0",⚽ Haruka Kaji vs Gao Xinyu | 10:00 05/05
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/haruka-kaji-vs-gao-xinyu-1000-05-05-2026/457866
+# Cap nhat: 2026-05-05 07:22 UTC
+#EXTINF:-1 tvg-name="⚽ Wu Tung-lin vs James Mccabe | 12:20 05/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-2e09da1a1d03.webp?v=1777965275" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/wu-tunglin-vs-james-mccabe-1220-05-05-2026/455007" http-user-agent="Mozilla/5.0",⚽ Wu Tung-lin vs James Mccabe | 12:20 05/05
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/wu-tunglin-vs-james-mccabe-1220-05-05-2026/455007
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.alilicloud.com/live/1d6fdd28b8ed19d09c183c04257d9ab5/playlist.m3u8
-#EXTINF:-1 tvg-name="⚽ Jessica Pieri vs Shi Han | 11:30 05/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-c540f37483f3.webp?v=1777955660" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/jessica-pieri-vs-shi-han-1130-05-05-2026/457857" http-user-agent="Mozilla/5.0",⚽ Jessica Pieri vs Shi Han | 11:30 05/05
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/jessica-pieri-vs-shi-han-1130-05-05-2026/457857
+https://live.alilicloud.com/live/2a67cbcd16d12d6d0ed592a439b782d2/playlist.m3u8
+#EXTINF:-1 tvg-name="⚽ Alex Bolt vs Sun Fajing | 12:25 05/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-11c95b929e5a.webp?v=1777965279" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/alex-bolt-vs-sun-fajing-1225-05-05-2026/454995" http-user-agent="Mozilla/5.0",⚽ Alex Bolt vs Sun Fajing | 12:25 05/05
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/alex-bolt-vs-sun-fajing-1225-05-05-2026/454995
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.alilicloud.com/live/fd604fa444a3ede5108ef83571a92f30/playlist.m3u8
-#EXTINF:-1 tvg-name="⚽ Elena Micic vs Taylah Preston | 11:30 05/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-53a7996191b8.webp?v=1777955660" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/elena-micic-vs-taylah-preston-1130-05-05-2026/457869" http-user-agent="Mozilla/5.0",⚽ Elena Micic vs Taylah Preston | 11:30 05/05
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/elena-micic-vs-taylah-preston-1130-05-05-2026/457869
+https://live.alilicloud.com/live/4120ff4ffdd472de77a0f43c95aaf947/playlist.m3u8
+#EXTINF:-1 tvg-name="⚽ Adam Walton vs Hsu Yu-hsiou | 12:40 05/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-67e77e669f3e.webp?v=1777965277" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/adam-walton-vs-hsu-yuhsiou-1240-05-05-2026/455001" http-user-agent="Mozilla/5.0",⚽ Adam Walton vs Hsu Yu-hsiou | 12:40 05/05
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/adam-walton-vs-hsu-yuhsiou-1240-05-05-2026/455001
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.alilicloud.com/live/077af142339cddd718adb21b6e43ba58/playlist.m3u8
-#EXTINF:-1 tvg-name="⚽ Bucheon FC 1995 vs Jeju SK FC | 12:00 05/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-1737ece59509.webp?v=1777955660" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/bucheon-fc-1995-vs-jeju-sk-fc-1200-05-05-2026/451524" http-user-agent="Mozilla/5.0",⚽ Bucheon FC 1995 vs Jeju SK FC | 12:00 05/05
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/bucheon-fc-1995-vs-jeju-sk-fc-1200-05-05-2026/451524
+https://live.alilicloud.com/live/e8f72ba7d5d4a36cf78f1dbc6f199989/playlist.m3u8
+#EXTINF:-1 tvg-name="⚽ Aoi Ito vs Lizette Cabrera | 12:40 05/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-7aad049df0e6.webp?v=1777965279" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/aoi-ito-vs-lizette-cabrera-1240-05-05-2026/457848" http-user-agent="Mozilla/5.0",⚽ Aoi Ito vs Lizette Cabrera | 12:40 05/05
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/aoi-ito-vs-lizette-cabrera-1240-05-05-2026/457848
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8
-#EXTINF:-1 tvg-name="⚽ Jeonbuk Hyundai Motors vs Gwangju Football Club | 12:00 05/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-35e1a925e59e.webp?v=1777955661" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/jeonbuk-hyundai-motors-vs-gwangju-football-club-1200-05-05-2026/451521" http-user-agent="Mozilla/5.0",⚽ Jeonbuk Hyundai Motors vs Gwangju Football Club | 12:00 05/05
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/jeonbuk-hyundai-motors-vs-gwangju-football-club-1200-05-05-2026/451521
+https://live.alilicloud.com/live/560e2dca5cc9f91d243619855b73f67e/playlist.m3u8
+#EXTINF:-1 tvg-name="⚽ Viktoria Morvayova vs Ma Yexin | 13:35 05/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-d248dd35c1a0.webp?v=1777965276" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/viktoria-morvayova-vs-ma-yexin-1335-05-05-2026/457839" http-user-agent="Mozilla/5.0",⚽ Viktoria Morvayova vs Ma Yexin | 13:35 05/05
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/viktoria-morvayova-vs-ma-yexin-1335-05-05-2026/457839
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn-hls.phogatv8.com/live/69f97109137e4_26/index.m3u8?expire=1778559881&sign=f6bbfd2a735dab42aa33cb77397b003a
+https://live.alilicloud.com/live/fe1c9261c4d9f374e5d01a96ecf419ea/playlist.m3u8
+#EXTINF:-1 tvg-name="⚽ Yang Yidi vs Carol Zhao | 14:05 05/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-5afbbb06d66d.webp?v=1777965278" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/yang-yidi-vs-carol-zhao-1405-05-05-2026/458703" http-user-agent="Mozilla/5.0",⚽ Yang Yidi vs Carol Zhao | 14:05 05/05
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/yang-yidi-vs-carol-zhao-1405-05-05-2026/458703
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.alilicloud.com/live/01f8a4c4807f295fa3da77d0cd92b9b7/playlist.m3u8
+#EXTINF:-1 tvg-name="⚽ Gangwon Football Club vs Pohang Steelers | 14:30 05/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-ed6eb8dd41b7.webp?v=1777965276" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/gangwon-football-club-vs-pohang-steelers-1430-05-05-2026/451572" http-user-agent="Mozilla/5.0",⚽ Gangwon Football Club vs Pohang Steelers | 14:30 05/05
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/gangwon-football-club-vs-pohang-steelers-1430-05-05-2026/451572
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cdn-hls.phogatv8.com/live/69f9972c51ddc_154/index.m3u8?expire=1778569644&sign=302953d16179716ed4c5e526892b1704
+#EXTINF:-1 tvg-name="⚽ Lebanon U17 Women vs Australia Women U17 | 14:30 05/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-b3bdef799b0f.webp?v=1777965277" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/lebanon-u17-women-vs-australia-women-u17-1430-05-05-2026/451578" http-user-agent="Mozilla/5.0",⚽ Lebanon U17 Women vs Australia Women U17 | 14:30 05/05
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/lebanon-u17-women-vs-australia-women-u17-1430-05-05-2026/451578
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cdn-hls.phogatv8.com/live/69f97d28137e4_19092/index.m3u8?expire=1778562984&sign=6183768c034f9a35a233aaa0f0354847
+#EXTINF:-1 tvg-name="⚽ Xem trực tiếp PPA Atlanta Slam | 02:00 05/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-b5c9cf9a98de.webp?v=1777965277" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/ppa-atlanta-slam-1430-05-05-2026/463845" http-user-agent="Mozilla/5.0",⚽ Xem trực tiếp PPA Atlanta Slam | 02:00 05/05
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/ppa-atlanta-slam-1430-05-05-2026/463845
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cdn-hls.phogatv8.com/live/69f9963e137e4_742/index.m3u8?expire=1778569406&sign=ad0b834dd748526624b709e048319b8a
+#EXTINF:-1 tvg-name="⚽ Chinese Taipei U17 Women vs Korea Rep. Women U17 | 14:30 05/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-1749f4882e9e.webp?v=1777965278" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/chinese-taipei-u17-women-vs-korea-rep-women-u17-1430-05-05-2026/451581" http-user-agent="Mozilla/5.0",⚽ Chinese Taipei U17 Women vs Korea Rep. Women U17 | 14:30 05/05
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/chinese-taipei-u17-women-vs-korea-rep-women-u17-1430-05-05-2026/451581
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cdn-hls.phogatv8.com/live/69f9946a137e4_14559/index.m3u8?expire=1778568938&sign=59b800b7940ed5f990b7688c7d0e2616
+#EXTINF:-1 tvg-name="⚽ Gimcheon Sangmu Football Club vs Ulsan HD FC | 14:30 05/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-f0082d575ec6.webp?v=1777965279" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/gimcheon-sangmu-football-club-vs-ulsan-hd-fc-1430-05-05-2026/451575" http-user-agent="Mozilla/5.0",⚽ Gimcheon Sangmu Football Club vs Ulsan HD FC | 14:30 05/05
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/gimcheon-sangmu-football-club-vs-ulsan-hd-fc-1430-05-05-2026/451575
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cdn-hls.phogatv8.com/live/69f9960951ddc_1984/index.m3u8?expire=1778569353&sign=c50034e8b652907186d791116bb487cd
+#EXTINF:-1 tvg-name="⚽ Daejeon Citizen vs Incheon United Club | 14:30 05/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-2d2e57d4329e.webp?v=1777965280" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/daejeon-citizen-vs-incheon-united-club-1430-05-05-2026/451569" http-user-agent="Mozilla/5.0",⚽ Daejeon Citizen vs Incheon United Club | 14:30 05/05
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/daejeon-citizen-vs-incheon-united-club-1430-05-05-2026/451569
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cdn-hls.phogatv8.com/live/69f9964951ddc_19533/index.m3u8?expire=1778569417&sign=9db3c8da1e8498423362a0c7f0170e09
