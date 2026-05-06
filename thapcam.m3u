@@ -1,38 +1,46 @@
 #EXTM3U x-playlist-title="ThapCam Live Sports"
-# Cap nhat: 2026-05-06 04:07 UTC
-#EXTINF:-1 tvg-name="⚽ Lizette Cabrera vs Li Zongyu | 10:00 06/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-6dfe22d30f49.webp?v=1778040265" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/lizette-cabrera-vs-li-zongyu-1000-06-05-2026/453000" http-user-agent="Mozilla/5.0",⚽ Lizette Cabrera vs Li Zongyu | 10:00 06/05
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/lizette-cabrera-vs-li-zongyu-1000-06-05-2026/453000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.alilicloud.com/live/32ca05467aae7c2bb77edc319bea6df5/playlist.m3u8
-#EXTINF:-1 tvg-name="⚽ Lanlana Tararudee vs Shi Han | 10:00 06/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-a3c03ce60fe0.webp?v=1778040268" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/lanlana-tararudee-vs-shi-han-1000-06-05-2026/452991" http-user-agent="Mozilla/5.0",⚽ Lanlana Tararudee vs Shi Han | 10:00 06/05
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/lanlana-tararudee-vs-shi-han-1000-06-05-2026/452991
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.alilicloud.com/live/6d8ac3a12f353db5b4e9723d0674217c/playlist.m3u8
-#EXTINF:-1 tvg-name="⚽ V-Varen Nagasaki vs Fagiano Okayama | 11:00 06/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-b7dff599f098.webp?v=1778040268" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/vvaren-nagasaki-vs-fagiano-okayama-1100-06-05-2026/455256" http-user-agent="Mozilla/5.0",⚽ V-Varen Nagasaki vs Fagiano Okayama | 11:00 06/05
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/vvaren-nagasaki-vs-fagiano-okayama-1100-06-05-2026/455256
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn-hls.phogatv8.com/live/69fab88351ddc_793/index.m3u8?expire=1778643715&sign=f8577e8c1e8612ee9adc459ee8d0b05b
-#EXTINF:-1 tvg-name="⚽ Shimizu S-Pulse vs Cerezo Osaka | 11:00 06/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-429342c22eed.webp?v=1778040269" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/shimizu-spulse-vs-cerezo-osaka-1100-06-05-2026/455253" http-user-agent="Mozilla/5.0",⚽ Shimizu S-Pulse vs Cerezo Osaka | 11:00 06/05
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/shimizu-spulse-vs-cerezo-osaka-1100-06-05-2026/455253
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn-hls.phogatv8.com/live/69fab6c751ddc_148/index.m3u8?expire=1778643271&sign=f14b7d49f65ae2356202991230dd6411
-#EXTINF:-1 tvg-name="⚽ Nagoya Grampus vs Gamba Osaka | 12:00 06/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-1d1720c2e68d.webp?v=1778040266" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/nagoya-grampus-vs-gamba-osaka-1200-06-05-2026/455262" http-user-agent="Mozilla/5.0",⚽ Nagoya Grampus vs Gamba Osaka | 12:00 06/05
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/nagoya-grampus-vs-gamba-osaka-1200-06-05-2026/455262
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8
-#EXTINF:-1 tvg-name="⚽ KIÊN SẾU vs ĐỖ VĂN HOÀNG | 12:00 06/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-2d69a2728b1f.webp?v=1778040267" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/kien-seu-vs-do-van-hoang-1200-06-05-2026/464382" http-user-agent="Mozilla/5.0",⚽ KIÊN SẾU vs ĐỖ VĂN HOÀNG | 12:00 06/05
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/kien-seu-vs-do-van-hoang-1200-06-05-2026/464382
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8
-#EXTINF:-1 tvg-name="⚽ TKON vs DŨNG PHẠM | 12:00 06/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-08f56b07eba2.webp?v=1778040269" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/tkon-vs-dung-pham-1200-06-05-2026/464379" http-user-agent="Mozilla/5.0",⚽ TKON vs DŨNG PHẠM | 12:00 06/05
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/tkon-vs-dung-pham-1200-06-05-2026/464379
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8
-#EXTINF:-1 tvg-name="⚽ Avispa Fukuoka vs Kyoto Sanga | 12:00 06/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-7fe88b85636d.webp?v=1778040269" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/avispa-fukuoka-vs-kyoto-sanga-1200-06-05-2026/455259" http-user-agent="Mozilla/5.0",⚽ Avispa Fukuoka vs Kyoto Sanga | 12:00 06/05
+# Cap nhat: 2026-05-06 06:46 UTC
+#EXTINF:-1 tvg-name="⚽ Avispa Fukuoka vs Kyoto Sanga | 12:00 06/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-7fe88b85636d.webp?v=1778049884" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/avispa-fukuoka-vs-kyoto-sanga-1200-06-05-2026/455259" http-user-agent="Mozilla/5.0",⚽ Avispa Fukuoka vs Kyoto Sanga | 12:00 06/05
 #EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/avispa-fukuoka-vs-kyoto-sanga-1200-06-05-2026/455259
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8
-#EXTINF:-1 tvg-name="⚽ HOÀNG SAO vs DŨNG HÀN | 12:00 06/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-9a2fafa6e062.webp?v=1778040270" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/hoang-sao-vs-dung-han-1200-06-05-2026/464376" http-user-agent="Mozilla/5.0",⚽ HOÀNG SAO vs DŨNG HÀN | 12:00 06/05
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/hoang-sao-vs-dung-han-1200-06-05-2026/464376
+https://cdn-hls.phogatv8.com/live/69fac55f137e4_145/index.m3u8?expire=1778647007&sign=feb40ec711603a657dabea7c9641af1f
+#EXTINF:-1 tvg-name="⚽ Nagoya Grampus vs Gamba Osaka | 12:00 06/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-1d1720c2e68d.webp?v=1778049886" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/nagoya-grampus-vs-gamba-osaka-1200-06-05-2026/455262" http-user-agent="Mozilla/5.0",⚽ Nagoya Grampus vs Gamba Osaka | 12:00 06/05
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/nagoya-grampus-vs-gamba-osaka-1200-06-05-2026/455262
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8
+https://cdn-hls.phogatv8.com/live/69fac41c137e4_35/index.m3u8?expire=1778646684&sign=8e6233ab9124863e1643574225a06649
+#EXTINF:-1 tvg-name="⚽ HẢI RÔ vs TRƯỜNG XOĂN | 13:00 06/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-be86b978e0bf.webp?v=1778049884" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/hai-ro-vs-truong-xoan-1300-06-05-2026/464382" http-user-agent="Mozilla/5.0",⚽ HẢI RÔ vs TRƯỜNG XOĂN | 13:00 06/05
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/hai-ro-vs-truong-xoan-1300-06-05-2026/464382
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cdn-hls.phogatv8.com/live/69fac29751ddc_181/index.m3u8?expire=1778646295&sign=a792546d5bd9ec96a9e5c078b7c02181
+#EXTINF:-1 tvg-name="⚽ FC Tokyo vs JEF United Ichihara Chiba | 13:00 06/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-781d960437be.webp?v=1778049885" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/fc-tokyo-vs-jef-united-ichihara-chiba-1300-06-05-2026/455319" http-user-agent="Mozilla/5.0",⚽ FC Tokyo vs JEF United Ichihara Chiba | 13:00 06/05
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/fc-tokyo-vs-jef-united-ichihara-chiba-1300-06-05-2026/455319
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cdn-hls.phogatv8.com/live/69fae320137e4_14559/index.m3u8?expire=1778654624&sign=7482375ec66b1734b5185f0561f865e7
+#EXTINF:-1 tvg-name="⚽ Sanfrecce Hiroshima vs Vissel Kobe | 13:00 06/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-9b687ee09261.webp?v=1778049886" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/sanfrecce-hiroshima-vs-vissel-kobe-1300-06-05-2026/455322" http-user-agent="Mozilla/5.0",⚽ Sanfrecce Hiroshima vs Vissel Kobe | 13:00 06/05
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/sanfrecce-hiroshima-vs-vissel-kobe-1300-06-05-2026/455322
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cdn-hls.phogatv8.com/live/69facd38137e4_19533/index.m3u8?expire=1778649016&sign=844e9bbf9a28c8dd275260da9fbd67a2
+#EXTINF:-1 tvg-name="⚽ THIỆN LƯƠNG vs TRUNG GIA LÂM | 13:00 06/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-502f284c03b3.webp?v=1778049887" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/thien-luong-vs-trung-gia-lam-1300-06-05-2026/464385" http-user-agent="Mozilla/5.0",⚽ THIỆN LƯƠNG vs TRUNG GIA LÂM | 13:00 06/05
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/thien-luong-vs-trung-gia-lam-1300-06-05-2026/464385
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cdn-hls.phogatv8.com/live/69fadb0451ddc_26/index.m3u8?expire=1778652548&sign=7c82686403d80ec3f63d793172abd5e5
+#EXTINF:-1 tvg-name="⚽ AN NHIỆT vs TÙNG GÁI | 13:00 06/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-13a502439075.webp?v=1778049887" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/an-nhiet-vs-tung-gai-1300-06-05-2026/464376" http-user-agent="Mozilla/5.0",⚽ AN NHIỆT vs TÙNG GÁI | 13:00 06/05
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/an-nhiet-vs-tung-gai-1300-06-05-2026/464376
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cdn-hls.phogatv8.com/live/69fabeb3137e4_14232/index.m3u8?expire=1778645299&sign=a27c2351791ae9366a4729a3e5913b23
+#EXTINF:-1 tvg-name="⚽ Carol Zhao vs You Xiaodi | 13:10 06/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-4d296ec803e5.webp?v=1778049886" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/carol-zhao-vs-you-xiaodi-1310-06-05-2026/452985" http-user-agent="Mozilla/5.0",⚽ Carol Zhao vs You Xiaodi | 13:10 06/05
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/carol-zhao-vs-you-xiaodi-1310-06-05-2026/452985
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.alilicloud.com/live/872f679119ac95ec22755b97cd88e9a2/playlist.m3u8
+#EXTINF:-1 tvg-name="⚽ Yao Xinxin vs Haruka Kaji | 13:25 06/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-b6e56357cf76.webp?v=1778049887" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/yao-xinxin--vs-haruka-kaji-1325-06-05-2026/452988" http-user-agent="Mozilla/5.0",⚽ Yao Xinxin vs Haruka Kaji | 13:25 06/05
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/yao-xinxin--vs-haruka-kaji-1325-06-05-2026/452988
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.alilicloud.com/live/c278e1b4273155dc54d04b5e7ed2ee98/playlist.m3u8
+#EXTINF:-1 tvg-name="⚽ Machida Zelvia vs Yokohama F. Marinos | 14:00 06/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-92a74fda7fc7.webp?v=1778049884" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/machida-zelvia-vs-yokohama-f-marinos-1400-06-05-2026/455331" http-user-agent="Mozilla/5.0",⚽ Machida Zelvia vs Yokohama F. Marinos | 14:00 06/05
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/machida-zelvia-vs-yokohama-f-marinos-1400-06-05-2026/455331
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cdn-hls.phogatv8.com/live/69fadfa2137e4_1549/index.m3u8?expire=1778653730&sign=340ba16b2b967b5f8dbd6f97e941d15d
+#EXTINF:-1 tvg-name="⚽ Kashima Antlers vs Mito Hollyhock | 14:00 06/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-8089c21faa34.webp?v=1778049885" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/kashima-antlers-vs-mito-hollyhock-1400-06-05-2026/455328" http-user-agent="Mozilla/5.0",⚽ Kashima Antlers vs Mito Hollyhock | 14:00 06/05
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/kashima-antlers-vs-mito-hollyhock-1400-06-05-2026/455328
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cdn-hls.phogatv8.com/live/69fae0e6137e4_14/index.m3u8?expire=1778654054&sign=869b0e77e937ef7168438319a36396d7
