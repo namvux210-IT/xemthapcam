@@ -1,22 +1,14 @@
 #EXTM3U x-playlist-title="ThapCam Live Sports"
-# Cap nhat: 2026-05-06 19:55 UTC
-#EXTINF:-1 tvg-name="⚽ Al Ahli SFC vs Al Fateh SC | 01:00 07/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-32dce51ad35e.webp?v=1778097264" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/al-ahli-sfc-vs-al-fateh-sc-0100-07-05-2026/451998" http-user-agent="Mozilla/5.0",⚽ Al Ahli SFC vs Al Fateh SC | 01:00 07/05
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/al-ahli-sfc-vs-al-fateh-sc-0100-07-05-2026/451998
+# Cap nhat: 2026-05-06 21:18 UTC
+#EXTINF:-1 tvg-name="⚽ M.Alves/P.Sakamoto vs Hernan Casanova/Nicolás Kicker | 02:30 07/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-2e5036cba0c4.webp?v=1778102059" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/malvespsakamoto-vs-hernan-casanovanicolas-kicker-0230-07-05-2026/458682" http-user-agent="Mozilla/5.0",⚽ M.Alves/P.Sakamoto vs Hernan Casanova/Nicolás Kicker | 02:30 07/05
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/malvespsakamoto-vs-hernan-casanovanicolas-kicker-0230-07-05-2026/458682
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn-hls.phogatv8.com/live/69fb7ce951ddc_14559/index.m3u8?expire=1778693993&sign=33e55e6a52c5d7e0d69b4b164d802adc
-#EXTINF:-1 tvg-name="⚽ Panathinaikos vs Valencia | 01:15 07/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-b81900f9ab80.webp?v=1778097265" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/panathinaikos-vs-valencia-0115-07-05-2026/452631" http-user-agent="Mozilla/5.0",⚽ Panathinaikos vs Valencia | 01:15 07/05
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/panathinaikos-vs-valencia-0115-07-05-2026/452631
+https://live.alilicloud.com/live/8cb1a455282d4e8a8629c8df50e68f26/playlist.m3u8
+#EXTINF:-1 tvg-name="⚽ Justo Guido Ivan/Franco Roncadelli vs Thiago Cigarran/Lautaro Agustin Falabella | 03:00 07/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-76299b4a666a.webp?v=1778102060" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/justo-guido-ivanfranco-roncadelli-vs-thiago-cigarranlautaro-agustin-falabella-0300-07-05-2026/458679" http-user-agent="Mozilla/5.0",⚽ Justo Guido Ivan/Franco Roncadelli vs Thiago Cigarran/Lautaro Agustin Falabella | 03:00 07/05
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/justo-guido-ivanfranco-roncadelli-vs-thiago-cigarranlautaro-agustin-falabella-0300-07-05-2026/458679
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.alilicloud.com/live/85cb08394fa9a82c1baf5df08a364c4a/playlist.m3u8
-#EXTINF:-1 tvg-name="⚽ U.M.F. Tindastoll vs Stjarnan | 01:15 07/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-d3e80a1bf7f9.webp?v=1778097265" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/umf-tindastoll-vs-stjarnan-0115-07-05-2026/463590" http-user-agent="Mozilla/5.0",⚽ U.M.F. Tindastoll vs Stjarnan | 01:15 07/05
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/umf-tindastoll-vs-stjarnan-0115-07-05-2026/463590
+https://live.alilicloud.com/live/35db5f899aa5230031733eb6bd0ab0ea/playlist.m3u8
+#EXTINF:-1 tvg-name="⚽ U.M.F. Grindavik vs Valur Reykjavik | 03:15 07/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-eb8a76eaa121.webp?v=1778102059" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/umf-grindavik-vs-valur-reykjavik-0315-07-05-2026/465678" http-user-agent="Mozilla/5.0",⚽ U.M.F. Grindavik vs Valur Reykjavik | 03:15 07/05
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/umf-grindavik-vs-valur-reykjavik-0315-07-05-2026/465678
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.alilicloud.com/live/1693b510a901110b8c8d69525ca7227e/playlist.m3u8
-#EXTINF:-1 tvg-name="⚽ Lalami Laaroussi Y / Marrero Curbelo I vs Artnak B / Covato M | 01:45 07/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-008d7bb9011a.webp?v=1778097264" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/lalami-laaroussi-y--marrero-curbelo-i-vs-artnak-b--covato-m-0145-07-05-2026/458412" http-user-agent="Mozilla/5.0",⚽ Lalami Laaroussi Y / Marrero Curbelo I vs Artnak B / Covato M | 01:45 07/05
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/lalami-laaroussi-y--marrero-curbelo-i-vs-artnak-b--covato-m-0145-07-05-2026/458412
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.alilicloud.com/live/e856f352c6118558ac6cd00240829095/playlist.m3u8
-#EXTINF:-1 tvg-name="⚽ FC Bayern Munich vs Paris Saint Germain | 02:00 07/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-da0e311b9161.webp?v=1778097264" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/fc-bayern-munich-vs-paris-saint-germain-0200-07-05-2026/452046" http-user-agent="Mozilla/5.0",⚽ FC Bayern Munich vs Paris Saint Germain | 02:00 07/05
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/fc-bayern-munich-vs-paris-saint-germain-0200-07-05-2026/452046
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn-hls.phogatv8.com/live/69fb8ae6137e4_151/index.m3u8?expire=1778697574&sign=9c3d57ce5367d0f8091c84bc8a0b4e56
+https://live.alilicloud.com/live/f2de8dce6dd83b20ec9a55c6c0a1dbc2/playlist.m3u8
