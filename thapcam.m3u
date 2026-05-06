@@ -1,14 +1,18 @@
 #EXTM3U x-playlist-title="ThapCam Live Sports"
-# Cap nhat: 2026-05-06 22:26 UTC
-#EXTINF:-1 tvg-name="⚽ Hardt N / Rodriguez C vs Dutra Da Silva D / Mena F | 04:35 07/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-c103a4016814.webp?v=1778106263" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/hardt-n--rodriguez-c-vs-dutra-da-silva-d--mena-f-0435-07-05-2026/458688" http-user-agent="Mozilla/5.0",⚽ Hardt N / Rodriguez C vs Dutra Da Silva D / Mena F | 04:35 07/05
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/hardt-n--rodriguez-c-vs-dutra-da-silva-d--mena-f-0435-07-05-2026/458688
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.alilicloud.com/live/667a3397e4dbbd3e058583091f940c56/playlist.m3u8
-#EXTINF:-1 tvg-name="⚽ Malvin vs Defensor Sporting | 05:15 07/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-0a3ae5b10b69.webp?v=1778106263" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/malvin-vs-defensor-sporting-0515-07-05-2026/463596" http-user-agent="Mozilla/5.0",⚽ Malvin vs Defensor Sporting | 05:15 07/05
+# Cap nhat: 2026-05-06 23:29 UTC
+#EXTINF:-1 tvg-name="⚽ Malvin vs Defensor Sporting | 05:15 07/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-0a3ae5b10b69.webp?v=1778109863" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/malvin-vs-defensor-sporting-0515-07-05-2026/463596" http-user-agent="Mozilla/5.0",⚽ Malvin vs Defensor Sporting | 05:15 07/05
 #EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/malvin-vs-defensor-sporting-0515-07-05-2026/463596
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live.alilicloud.com/live/3e51b107af9554b2a0604e7663f98fbd/playlist.m3u8
-#EXTINF:-1 tvg-name="⚽ New York Knicks vs Philadelphia 76ers | 06:00 07/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-b548b3f30765.webp?v=1778106263" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/new-york-knicks-vs-philadelphia-76ers-0600-07-05-2026/457395" http-user-agent="Mozilla/5.0",⚽ New York Knicks vs Philadelphia 76ers | 06:00 07/05
+#EXTINF:-1 tvg-name="⚽ New York Knicks vs Philadelphia 76ers | 06:00 07/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-b548b3f30765.webp?v=1778109864" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/new-york-knicks-vs-philadelphia-76ers-0600-07-05-2026/457395" http-user-agent="Mozilla/5.0",⚽ New York Knicks vs Philadelphia 76ers | 06:00 07/05
 #EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/new-york-knicks-vs-philadelphia-76ers-0600-07-05-2026/457395
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cdn-hls.phogatv8.com/live/69fbc7bf51ddc_9657/index.m3u8?expire=1778713151&sign=7df7f3ac004a0197f4a57370c72c0cbc
+#EXTINF:-1 tvg-name="⚽ Sporting Kansas CityReserves vs Ventura County FC | 07:00 07/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-6b43aaf05ec3.webp?v=1778109864" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/sporting-kansas-cityreserves-vs-ventura-county-fc-0700-07-05-2026/452139" http-user-agent="Mozilla/5.0",⚽ Sporting Kansas CityReserves vs Ventura County FC | 07:00 07/05
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/sporting-kansas-cityreserves-vs-ventura-county-fc-0700-07-05-2026/452139
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8
+#EXTINF:-1 tvg-name="⚽ Macara vs Club Atletico Tigre | 07:00 07/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-90ac5a85bae6.webp?v=1778109864" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/macara-vs-club-atletico-tigre-0700-07-05-2026/452133" http-user-agent="Mozilla/5.0",⚽ Macara vs Club Atletico Tigre | 07:00 07/05
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/macara-vs-club-atletico-tigre-0700-07-05-2026/452133
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cdn-hls.phogatv8.com/live/69fbcb1d137e4_14232/index.m3u8?expire=1778714013&sign=c19680953b2cf3e604a192aeee1536c1
