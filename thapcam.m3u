@@ -1,22 +1,30 @@
 #EXTM3U x-playlist-title="ThapCam Live Sports"
-# Cap nhat: 2026-05-05 23:14 UTC
-#EXTINF:-1 tvg-name="⚽ Independiente Petrolero vs Caracas FC | 05:00 06/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-b8ea019c0031.webp?v=1778022863" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/independiente-petrolero-vs-caracas-fc-0500-06-05-2026/455208" http-user-agent="Mozilla/5.0",⚽ Independiente Petrolero vs Caracas FC | 05:00 06/05
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/independiente-petrolero-vs-caracas-fc-0500-06-05-2026/455208
+# Cap nhat: 2026-05-06 00:09 UTC
+#EXTINF:-1 tvg-name="⚽ Cimarrones del Choco vs Toros del Valle | 05:00 06/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-0461e2c0b828.webp?v=1778025863" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/cimarrones-del-choco-vs-toros-del-valle-0500-06-05-2026/446283" http-user-agent="Mozilla/5.0",⚽ Cimarrones del Choco vs Toros del Valle | 05:00 06/05
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/cimarrones-del-choco-vs-toros-del-valle-0500-06-05-2026/446283
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn-hls.phogatv8.com/live/69fa61e3137e4_14/index.m3u8?expire=1778621539&sign=46f2c374ae5575f31d6ff8f5e267e0bf
-#EXTINF:-1 tvg-name="⚽ Vivo Franca vs Mogi das Cruzes | 05:00 06/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-ab9a7c1d823b.webp?v=1778022864" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/vivo-franca-vs-mogi-das-cruzes-0500-06-05-2026/454521" http-user-agent="Mozilla/5.0",⚽ Vivo Franca vs Mogi das Cruzes | 05:00 06/05
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/vivo-franca-vs-mogi-das-cruzes-0500-06-05-2026/454521
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.alilicloud.com/live/4e8d4cc10be1bc878e097771962caadc/playlist.m3u8
-#EXTINF:-1 tvg-name="⚽ New York City Team B vs Chicago flame B | 06:00 06/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-904db9755f78.webp?v=1778022862" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/new-york-city-team-b-vs-chicago-flame-b-0600-06-05-2026/455223" http-user-agent="Mozilla/5.0",⚽ New York City Team B vs Chicago flame B | 06:00 06/05
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/new-york-city-team-b-vs-chicago-flame-b-0600-06-05-2026/455223
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn-hls.phogatv8.com/live/69fa7058137e4_11/index.m3u8?expire=1778625240&sign=c1ec728888f4339423c17f4b725d8efd
-#EXTINF:-1 tvg-name="⚽ Detroit Pistons vs Cleveland Cavaliers | 06:00 06/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-3d27e44f2d4a.webp?v=1778022863" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/detroit-pistons-vs-cleveland-cavaliers-0600-06-05-2026/459006" http-user-agent="Mozilla/5.0",⚽ Detroit Pistons vs Cleveland Cavaliers | 06:00 06/05
+https://live.alilicloud.com/live/928713d82bba6f7f04d9eefb727a91c5/playlist.m3u8
+#EXTINF:-1 tvg-name="⚽ Detroit Pistons vs Cleveland Cavaliers | 06:00 06/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-3d27e44f2d4a.webp?v=1778025862" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/detroit-pistons-vs-cleveland-cavaliers-0600-06-05-2026/459006" http-user-agent="Mozilla/5.0",⚽ Detroit Pistons vs Cleveland Cavaliers | 06:00 06/05
 #EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/detroit-pistons-vs-cleveland-cavaliers-0600-06-05-2026/459006
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://cdn-hls.phogatv8.com/live/69fa71fa51ddc_9657/index.m3u8?expire=1778625658&sign=b54492db5ccf39175cffe09187555e13
-#EXTINF:-1 tvg-name="⚽ Barcelona SC(ECU) vs Boca Juniors | 07:00 06/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-99e49f16a2a2.webp?v=1778022863" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/barcelona-scecu-vs-boca-juniors-0700-06-05-2026/455229" http-user-agent="Mozilla/5.0",⚽ Barcelona SC(ECU) vs Boca Juniors | 07:00 06/05
+#EXTINF:-1 tvg-name="⚽ New York City Team B vs Chicago flame B | 06:00 06/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-904db9755f78.webp?v=1778025863" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/new-york-city-team-b-vs-chicago-flame-b-0600-06-05-2026/455223" http-user-agent="Mozilla/5.0",⚽ New York City Team B vs Chicago flame B | 06:00 06/05
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/new-york-city-team-b-vs-chicago-flame-b-0600-06-05-2026/455223
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cdn-hls.phogatv8.com/live/69fa7058137e4_11/index.m3u8?expire=1778625240&sign=c1ec728888f4339423c17f4b725d8efd
+#EXTINF:-1 tvg-name="⚽ CAIXA Brasília Basquete vs Flamengo | 06:30 06/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-389c9b66bfee.webp?v=1778025862" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/caixa-brasilia-basquete-vs-flamengo-0630-06-05-2026/454524" http-user-agent="Mozilla/5.0",⚽ CAIXA Brasília Basquete vs Flamengo | 06:30 06/05
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/caixa-brasilia-basquete-vs-flamengo-0630-06-05-2026/454524
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.alilicloud.com/live/0adc1edcd25f0cd20226910ab46a44d0/playlist.m3u8
+#EXTINF:-1 tvg-name="⚽ Barcelona SC(ECU) vs Boca Juniors | 07:00 06/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-99e49f16a2a2.webp?v=1778025863" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/barcelona-scecu-vs-boca-juniors-0700-06-05-2026/455229" http-user-agent="Mozilla/5.0",⚽ Barcelona SC(ECU) vs Boca Juniors | 07:00 06/05
 #EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/barcelona-scecu-vs-boca-juniors-0700-06-05-2026/455229
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cdn-hls.phogatv8.com/live/69fa7b9c51ddc_181/index.m3u8?expire=1778628124&sign=c7390dbcef358d71ed80684ced0c6829
+#EXTINF:-1 tvg-name="⚽ Deportivo Recoleta vs Santos | 07:30 06/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-da838152dacb.webp?v=1778025864" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/deportivo-recoleta-vs-santos-0730-06-05-2026/455238" http-user-agent="Mozilla/5.0",⚽ Deportivo Recoleta vs Santos | 07:30 06/05
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/deportivo-recoleta-vs-santos-0730-06-05-2026/455238
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cdn-hls.phogatv8.com/live/69fa834a51ddc_14232/index.m3u8?expire=1778630090&sign=f29df27faf732cea43f94f3d3e1edf76
+#EXTINF:-1 tvg-name="⚽ Oklahoma City Thunder vs Los Angeles Lakers | 07:30 06/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-ee64a160ca47.webp?v=1778025864" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/oklahoma-city-thunder-vs-los-angeles-lakers-0730-06-05-2026/457389" http-user-agent="Mozilla/5.0",⚽ Oklahoma City Thunder vs Los Angeles Lakers | 07:30 06/05
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/oklahoma-city-thunder-vs-los-angeles-lakers-0730-06-05-2026/457389
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8
