@@ -1,46 +1,58 @@
 #EXTM3U x-playlist-title="ThapCam Live Sports"
-# Cap nhat: 2026-05-06 11:31 UTC
-#EXTINF:-1 tvg-name="⚽ TẠ VĂN LINH vs KHẢI TONY | 15:05 06/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-8f719fd2c0bd.webp?v=1778066673" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/ta-van-linh-vs-khai-tony-1505-06-05-2026/464385" http-user-agent="Mozilla/5.0",⚽ TẠ VĂN LINH vs KHẢI TONY | 15:05 06/05
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/ta-van-linh-vs-khai-tony-1505-06-05-2026/464385
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn-hls.phogatv8.com/live/69fadb0451ddc_26/index.m3u8?expire=1778652548&sign=7c82686403d80ec3f63d793172abd5e5
-#EXTINF:-1 tvg-name="⚽ KIÊN PHÁP vs LÂM BẢO MINH | 15:15 06/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-263a2cecb9c5.webp?v=1778066671" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/kien-phap-vs-lam-bao-minh-1515-06-05-2026/464376" http-user-agent="Mozilla/5.0",⚽ KIÊN PHÁP vs LÂM BẢO MINH | 15:15 06/05
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/kien-phap-vs-lam-bao-minh-1515-06-05-2026/464376
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn-hls.phogatv8.com/live/69fabeb3137e4_14232/index.m3u8?expire=1778645299&sign=a27c2351791ae9366a4729a3e5913b23
-#EXTINF:-1 tvg-name="⚽ Zhang Zhizhen vs Daniel Altmaier | 16:00 06/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-ab7ec5ada222.webp?v=1778066674" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/zhang-zhizhen-vs-daniel-altmaier-1600-06-05-2026/459981" http-user-agent="Mozilla/5.0",⚽ Zhang Zhizhen vs Daniel Altmaier | 16:00 06/05
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/zhang-zhizhen-vs-daniel-altmaier-1600-06-05-2026/459981
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn-hls.phogatv8.com/live/69fafd26137e4_9657/index.m3u8?expire=1778661286&sign=ecc8ec0c2b2f3d2547ff8faf0cacc716
-#EXTINF:-1 tvg-name="⚽ Kashiwa Reysol vs Urawa Red Diamonds | 17:00 06/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-041a1676938e.webp?v=1778066672" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/kashiwa-reysol-vs-urawa-red-diamonds-1700-06-05-2026/455352" http-user-agent="Mozilla/5.0",⚽ Kashiwa Reysol vs Urawa Red Diamonds | 17:00 06/05
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/kashiwa-reysol-vs-urawa-red-diamonds-1700-06-05-2026/455352
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn-hls.phogatv8.com/live/69fb0910137e4_1549/index.m3u8?expire=1778664336&sign=bdac18e56523f01005b0ec7b52c8dfb4
-#EXTINF:-1 tvg-name="⚽ Meycauayan vs Negros Muscovados | 17:00 06/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-28443df66876.webp?v=1778066673" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/meycauayan-vs-negros-muscovados-1700-06-05-2026/459927" http-user-agent="Mozilla/5.0",⚽ Meycauayan vs Negros Muscovados | 17:00 06/05
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/meycauayan-vs-negros-muscovados-1700-06-05-2026/459927
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.alilicloud.com/live/77e757c505052b545daee23bfd1774c5/playlist.m3u8
-#EXTINF:-1 tvg-name="⚽ Huang T-H / Pearson K vs Rithvik Choudary Bollipalli/Arjun Kadhe | 17:10 06/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-4ec7a39da2ce.webp?v=1778066673" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/huang-th--pearson-k-vs-rithvik-choudary-bollipalliarjun-kadhe-1710-06-05-2026/458022" http-user-agent="Mozilla/5.0",⚽ Huang T-H / Pearson K vs Rithvik Choudary Bollipalli/Arjun Kadhe | 17:10 06/05
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/huang-th--pearson-k-vs-rithvik-choudary-bollipalliarjun-kadhe-1710-06-05-2026/458022
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.alilicloud.com/live/94342dd8bb78800a28db3156e8a2c8ac/playlist.m3u8
-#EXTINF:-1 tvg-name="⚽ NGỌC XĂM vs NAM MILANO | 17:15 06/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-b530785b17c2.webp?v=1778066675" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/ngoc-xam-vs-nam-milano-1715-06-05-2026/464382" http-user-agent="Mozilla/5.0",⚽ NGỌC XĂM vs NAM MILANO | 17:15 06/05
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/ngoc-xam-vs-nam-milano-1715-06-05-2026/464382
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn-hls.phogatv8.com/live/69fac29751ddc_181/index.m3u8?expire=1778646295&sign=a792546d5bd9ec96a9e5c078b7c02181
-#EXTINF:-1 tvg-name="⚽ Sun Fajing vs Rio Noguchi | 17:15 06/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-697ebf56d801.webp?v=1778066675" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/sun-fajing-vs-rio-noguchi-1715-06-05-2026/446421" http-user-agent="Mozilla/5.0",⚽ Sun Fajing vs Rio Noguchi | 17:15 06/05
+# Cap nhat: 2026-05-06 13:20 UTC
+#EXTINF:-1 tvg-name="⚽ Sun Fajing vs Rio Noguchi | 17:15 06/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-697ebf56d801.webp?v=1778073295" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/sun-fajing-vs-rio-noguchi-1715-06-05-2026/446421" http-user-agent="Mozilla/5.0",⚽ Sun Fajing vs Rio Noguchi | 17:15 06/05
 #EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/sun-fajing-vs-rio-noguchi-1715-06-05-2026/446421
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live.alilicloud.com/live/3c06cd92c951c0063710f8aaf6c4236b/playlist.m3u8
-#EXTINF:-1 tvg-name="⚽ Anastasia Gasanova vs Polina Kudermetova | 17:20 06/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-65a07db44b41.webp?v=1778066674" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/anastasia-gasanova-vs-polina-kudermetova-1720-06-05-2026/453012" http-user-agent="Mozilla/5.0",⚽ Anastasia Gasanova vs Polina Kudermetova | 17:20 06/05
+#EXTINF:-1 tvg-name="⚽ Anastasia Gasanova vs Polina Kudermetova | 17:20 06/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-65a07db44b41.webp?v=1778073296" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/anastasia-gasanova-vs-polina-kudermetova-1720-06-05-2026/453012" http-user-agent="Mozilla/5.0",⚽ Anastasia Gasanova vs Polina Kudermetova | 17:20 06/05
 #EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/anastasia-gasanova-vs-polina-kudermetova-1720-06-05-2026/453012
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live.alilicloud.com/live/c87bcdbec0cffbd3234fe5039cbfe6e6/playlist.m3u8
-#EXTINF:-1 tvg-name="⚽ New Taipei CTBC DEA vs New Taipei Kings | 18:00 06/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-2502325f48ea.webp?v=1778066672" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/new-taipei-ctbc-dea-vs-new-taipei-kings-1800-06-05-2026/463566" http-user-agent="Mozilla/5.0",⚽ New Taipei CTBC DEA vs New Taipei Kings | 18:00 06/05
+#EXTINF:-1 tvg-name="⚽ New Taipei CTBC DEA vs New Taipei Kings | 18:00 06/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-2502325f48ea.webp?v=1778073294" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/new-taipei-ctbc-dea-vs-new-taipei-kings-1800-06-05-2026/463566" http-user-agent="Mozilla/5.0",⚽ New Taipei CTBC DEA vs New Taipei Kings | 18:00 06/05
 #EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/new-taipei-ctbc-dea-vs-new-taipei-kings-1800-06-05-2026/463566
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live.alilicloud.com/live/6bc7a6fe4b225333069ae0fa8c79895a/playlist.m3u8
-#EXTINF:-1 tvg-name="⚽ Johor Darul Ta'zim FC vs Buriram United | 19:00 06/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-204a5a526336.webp?v=1778066675" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/johor-darul-tazim-fc-vs-buriram-united-1900-06-05-2026/455385" http-user-agent="Mozilla/5.0",⚽ Johor Darul Ta'zim FC vs Buriram United | 19:00 06/05
+#EXTINF:-1 tvg-name="⚽ Lisa Pigato vs Tyra Caterina Grant | 18:00 06/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-44494a2fd875.webp?v=1778073296" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/lisa-pigato-vs-tyra-caterina-grant-1800-06-05-2026/459639" http-user-agent="Mozilla/5.0",⚽ Lisa Pigato vs Tyra Caterina Grant | 18:00 06/05
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/lisa-pigato-vs-tyra-caterina-grant-1800-06-05-2026/459639
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.alilicloud.com/live/fd59447b8bca8d6ea08ba13d12624227/playlist.m3u8
+#EXTINF:-1 tvg-name="⚽ Hubert Hurkacz vs Yannick Hanfmann | 18:00 06/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-4dd9912c09c8.webp?v=1778073297" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/hubert-hurkacz-vs-yannick-hanfmann-1800-06-05-2026/459987" http-user-agent="Mozilla/5.0",⚽ Hubert Hurkacz vs Yannick Hanfmann | 18:00 06/05
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/hubert-hurkacz-vs-yannick-hanfmann-1800-06-05-2026/459987
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.alilicloud.com/live/7048f2487a7d981487b6c8896bf73baa/playlist.m3u8
+#EXTINF:-1 tvg-name="⚽ Shanghai Jiushi Sharks vs Shandong Hi-Speed Kirin | 18:35 06/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-9a447af2933f.webp?v=1778073291" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/shanghai-jiushi-sharks-vs-shandong-hispeed-kirin-1835-06-05-2026/459012" http-user-agent="Mozilla/5.0",⚽ Shanghai Jiushi Sharks vs Shandong Hi-Speed Kirin | 18:35 06/05
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/shanghai-jiushi-sharks-vs-shandong-hispeed-kirin-1835-06-05-2026/459012
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.alilicloud.com/live/cae99d53b6a565b2859b89ff45181459/playlist.m3u8
+#EXTINF:-1 tvg-name="⚽ Beijing Shougang Ducks vs Guangdong Southern Tigers | 18:35 06/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-4a652595c941.webp?v=1778073294" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/beijing-shougang-ducks-vs-guangdong-southern-tigers-1835-06-05-2026/459015" http-user-agent="Mozilla/5.0",⚽ Beijing Shougang Ducks vs Guangdong Southern Tigers | 18:35 06/05
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/beijing-shougang-ducks-vs-guangdong-southern-tigers-1835-06-05-2026/459015
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.alilicloud.com/live/b4aa842dcb0b0a2a055071c2d83d3848/playlist.m3u8
+#EXTINF:-1 tvg-name="⚽ China U17 vs Alpha Basketball Academy | 19:00 06/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-826b6e506b19.webp?v=1778073291" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/china-u17-vs-alpha-basketball-academy-1900-06-05-2026/463569" http-user-agent="Mozilla/5.0",⚽ China U17 vs Alpha Basketball Academy | 19:00 06/05
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/china-u17-vs-alpha-basketball-academy-1900-06-05-2026/463569
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.alilicloud.com/live/2b37a1abfb4dd89e2e1c047fe861d4b4/playlist.m3u8
+#EXTINF:-1 tvg-name="⚽ Rajawali Medan vs Kesatria Bengawan Solo | 19:00 06/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-1beb71e084bd.webp?v=1778073294" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/rajawali-medan-vs-kesatria-bengawan-solo-1900-06-05-2026/446301" http-user-agent="Mozilla/5.0",⚽ Rajawali Medan vs Kesatria Bengawan Solo | 19:00 06/05
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/rajawali-medan-vs-kesatria-bengawan-solo-1900-06-05-2026/446301
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.alilicloud.com/live/74275fa41138a37033854d2d9c183309/playlist.m3u8
+#EXTINF:-1 tvg-name="⚽ Rizal Golden Coolers vs Mindoro Tamaraws | 19:00 06/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-bda53c5ca2c7.webp?v=1778073295" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/rizal-golden-coolers-vs-mindoro-tamaraws-1900-06-05-2026/446304" http-user-agent="Mozilla/5.0",⚽ Rizal Golden Coolers vs Mindoro Tamaraws | 19:00 06/05
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/rizal-golden-coolers-vs-mindoro-tamaraws-1900-06-05-2026/446304
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.alilicloud.com/live/4cdf37fd6fd688827375948889c79af5/playlist.m3u8
+#EXTINF:-1 tvg-name="⚽ Johor Darul Ta'zim FC vs Buriram United | 19:00 06/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-204a5a526336.webp?v=1778073296" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/johor-darul-tazim-fc-vs-buriram-united-1900-06-05-2026/455385" http-user-agent="Mozilla/5.0",⚽ Johor Darul Ta'zim FC vs Buriram United | 19:00 06/05
 #EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/johor-darul-tazim-fc-vs-buriram-united-1900-06-05-2026/455385
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://cdn-hls.phogatv8.com/live/69fb202a51ddc_35/index.m3u8?expire=1778670250&sign=e882b71756db5b2aad4b9d8abf4fb461
+#EXTINF:-1 tvg-name="⚽ Selangor FC vs Thep Xanh Nam Dinh FC | 20:00 06/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-4d1b02a4a791.webp?v=1778073291" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/selangor-fc-vs-thep-xanh-nam-dinh-fc-2000-06-05-2026/455436" http-user-agent="Mozilla/5.0",⚽ Selangor FC vs Thep Xanh Nam Dinh FC | 20:00 06/05
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/selangor-fc-vs-thep-xanh-nam-dinh-fc-2000-06-05-2026/455436
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cdn-hls.phogatv8.com/live/69fb316d137e4_154/index.m3u8?expire=1778674669&sign=08bbb63ee1d8888c5993cca60bec8413
+#EXTINF:-1 tvg-name="⚽ Aleksandar Vukic vs Patrick Kypson | 20:35 06/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-bd26db44f331.webp?v=1778073292" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/aleksandar-vukic-vs-patrick-kypson-2035-06-05-2026/465243" http-user-agent="Mozilla/5.0",⚽ Aleksandar Vukic vs Patrick Kypson | 20:35 06/05
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/aleksandar-vukic-vs-patrick-kypson-2035-06-05-2026/465243
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cdn-hls.phogatv8.com/live/69fb2c0a137e4_742/index.m3u8?expire=1778673290&sign=ab8bc17f79836c505585d28f7b3d5371
+#EXTINF:-1 tvg-name="⚽ Al-Wahda FC vs Al-Wasl SC | 21:05 06/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-e7ca0b99dc33.webp?v=1778073293" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/alwahda-fc-vs-alwasl-sc-2105-06-05-2026/455502" http-user-agent="Mozilla/5.0",⚽ Al-Wahda FC vs Al-Wasl SC | 21:05 06/05
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/alwahda-fc-vs-alwasl-sc-2105-06-05-2026/455502
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cdn-hls.phogatv8.com/live/69fb3c4451ddc_148/index.m3u8?expire=1778677444&sign=1c8097292ea67e6d59326f943569bf28
