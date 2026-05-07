@@ -1,18 +1,54 @@
 #EXTM3U x-playlist-title="ThapCam Live Sports"
-# Cap nhat: 2026-05-06 23:29 UTC
-#EXTINF:-1 tvg-name="⚽ Malvin vs Defensor Sporting | 05:15 07/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-0a3ae5b10b69.webp?v=1778109863" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/malvin-vs-defensor-sporting-0515-07-05-2026/463596" http-user-agent="Mozilla/5.0",⚽ Malvin vs Defensor Sporting | 05:15 07/05
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/malvin-vs-defensor-sporting-0515-07-05-2026/463596
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.alilicloud.com/live/3e51b107af9554b2a0604e7663f98fbd/playlist.m3u8
-#EXTINF:-1 tvg-name="⚽ New York Knicks vs Philadelphia 76ers | 06:00 07/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-b548b3f30765.webp?v=1778109864" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/new-york-knicks-vs-philadelphia-76ers-0600-07-05-2026/457395" http-user-agent="Mozilla/5.0",⚽ New York Knicks vs Philadelphia 76ers | 06:00 07/05
+# Cap nhat: 2026-05-07 01:20 UTC
+#EXTINF:-1 tvg-name="⚽ New York Knicks vs Philadelphia 76ers | 06:00 07/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-b548b3f30765.webp?v=1778116509" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/new-york-knicks-vs-philadelphia-76ers-0600-07-05-2026/457395" http-user-agent="Mozilla/5.0",⚽ New York Knicks vs Philadelphia 76ers | 06:00 07/05
 #EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/new-york-knicks-vs-philadelphia-76ers-0600-07-05-2026/457395
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://cdn-hls.phogatv8.com/live/69fbc7bf51ddc_9657/index.m3u8?expire=1778713151&sign=7df7f3ac004a0197f4a57370c72c0cbc
-#EXTINF:-1 tvg-name="⚽ Sporting Kansas CityReserves vs Ventura County FC | 07:00 07/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-6b43aaf05ec3.webp?v=1778109864" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/sporting-kansas-cityreserves-vs-ventura-county-fc-0700-07-05-2026/452139" http-user-agent="Mozilla/5.0",⚽ Sporting Kansas CityReserves vs Ventura County FC | 07:00 07/05
+#EXTINF:-1 tvg-name="⚽ Indios de Mayaguez vs Corbuladias Pirates | 07:00 07/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-2a13680919cd.webp?v=1778116506" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/indios-de-mayaguez-vs-corbuladias-pirates-0700-07-05-2026/452673" http-user-agent="Mozilla/5.0",⚽ Indios de Mayaguez vs Corbuladias Pirates | 07:00 07/05
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/indios-de-mayaguez-vs-corbuladias-pirates-0700-07-05-2026/452673
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.alilicloud.com/live/e8b78ed999d92244876db45d8670c221/playlist.m3u8
+#EXTINF:-1 tvg-name="⚽ Sporting Kansas CityReserves vs Ventura County FC | 07:00 07/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-6b43aaf05ec3.webp?v=1778116507" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/sporting-kansas-cityreserves-vs-ventura-county-fc-0700-07-05-2026/452139" http-user-agent="Mozilla/5.0",⚽ Sporting Kansas CityReserves vs Ventura County FC | 07:00 07/05
 #EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/sporting-kansas-cityreserves-vs-ventura-county-fc-0700-07-05-2026/452139
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8
-#EXTINF:-1 tvg-name="⚽ Macara vs Club Atletico Tigre | 07:00 07/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-90ac5a85bae6.webp?v=1778109864" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/macara-vs-club-atletico-tigre-0700-07-05-2026/452133" http-user-agent="Mozilla/5.0",⚽ Macara vs Club Atletico Tigre | 07:00 07/05
+https://cdn-hls.phogatv8.com/live/69fbd02551ddc_145/index.m3u8?expire=1778715301&sign=1b90f2f92a50714c0e688d2e444dc70f
+#EXTINF:-1 tvg-name="⚽ San German vs Aguada Santeros | 07:00 07/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-8b7d8a5c3640.webp?v=1778116509" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/san-german-vs-aguada-santeros-0700-07-05-2026/452676" http-user-agent="Mozilla/5.0",⚽ San German vs Aguada Santeros | 07:00 07/05
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/san-german-vs-aguada-santeros-0700-07-05-2026/452676
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.alilicloud.com/live/2a8e278924a468f440390b57584dc70d/playlist.m3u8
+#EXTINF:-1 tvg-name="⚽ Metros de Santiago vs Indios de San Francisco | 07:00 07/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-de6ea59f7ae1.webp?v=1778116509" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/metros-de-santiago-vs-indios-de-san-francisco-0700-07-05-2026/466026" http-user-agent="Mozilla/5.0",⚽ Metros de Santiago vs Indios de San Francisco | 07:00 07/05
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/metros-de-santiago-vs-indios-de-san-francisco-0700-07-05-2026/466026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.alilicloud.com/live/ee43eea270c99ca97197a30e043adafd/playlist.m3u8
+#EXTINF:-1 tvg-name="⚽ Macara vs Club Atletico Tigre | 07:00 07/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-90ac5a85bae6.webp?v=1778116510" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/macara-vs-club-atletico-tigre-0700-07-05-2026/452133" http-user-agent="Mozilla/5.0",⚽ Macara vs Club Atletico Tigre | 07:00 07/05
 #EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/macara-vs-club-atletico-tigre-0700-07-05-2026/452133
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://cdn-hls.phogatv8.com/live/69fbcb1d137e4_14232/index.m3u8?expire=1778714013&sign=c19680953b2cf3e604a192aeee1536c1
+#EXTINF:-1 tvg-name="⚽ Atenas Cordoba vs Atletico Argentino Junin | 07:00 07/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-7467ddfb053d.webp?v=1778116511" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/atenas-cordoba-vs-atletico-argentino-junin-0700-07-05-2026/452679" http-user-agent="Mozilla/5.0",⚽ Atenas Cordoba vs Atletico Argentino Junin | 07:00 07/05
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/atenas-cordoba-vs-atletico-argentino-junin-0700-07-05-2026/452679
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.alilicloud.com/live/9284831435d231a5593752eb7b73687e/playlist.m3u8
+#EXTINF:-1 tvg-name="⚽ Leones de Ponce vs Gigantes Carolina | 07:00 07/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-041d44a02080.webp?v=1778116511" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/leones-de-ponce-vs-gigantes-carolina-0700-07-05-2026/452670" http-user-agent="Mozilla/5.0",⚽ Leones de Ponce vs Gigantes Carolina | 07:00 07/05
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/leones-de-ponce-vs-gigantes-carolina-0700-07-05-2026/452670
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.alilicloud.com/live/8158e43c1edcf03b8ca4f902b08772b6/playlist.m3u8
+#EXTINF:-1 tvg-name="⚽ Independiente Rivadavia vs Fluminense RJ | 07:30 07/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-1f03797f6385.webp?v=1778116508" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/independiente-rivadavia-vs-fluminense-rj-0730-07-05-2026/452163" http-user-agent="Mozilla/5.0",⚽ Independiente Rivadavia vs Fluminense RJ | 07:30 07/05
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/independiente-rivadavia-vs-fluminense-rj-0730-07-05-2026/452163
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cdn-hls.phogatv8.com/live/69fbd6ae137e4_181/index.m3u8?expire=1778716974&sign=497f326e976f9ff8395065b08094fbcf
+#EXTINF:-1 tvg-name="⚽ Toluca vs Los Angeles FC | 08:30 07/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-65a5a3c34f8e.webp?v=1778116507" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/toluca-vs-los-angeles-fc-0830-07-05-2026/452175" http-user-agent="Mozilla/5.0",⚽ Toluca vs Los Angeles FC | 08:30 07/05
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/toluca-vs-los-angeles-fc-0830-07-05-2026/452175
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cdn-hls.phogatv8.com/live/69fbe17d137e4_11241/index.m3u8?expire=1778719741&sign=2be65197b799e4e712fc7cd03c61b117
+#EXTINF:-1 tvg-name="⚽ San Antonio Spurs vs Minnesota Timberwolves | 08:30 07/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-147534492b0b.webp?v=1778116507" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/san-antonio-spurs-vs-minnesota-timberwolves-0830-07-05-2026/454533" http-user-agent="Mozilla/5.0",⚽ San Antonio Spurs vs Minnesota Timberwolves | 08:30 07/05
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/san-antonio-spurs-vs-minnesota-timberwolves-0830-07-05-2026/454533
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8
+#EXTINF:-1 tvg-name="⚽ Univ Catolica vs Cruzeiro Esporte Clube | 09:00 07/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-2354da6b36cf.webp?v=1778116508" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/univ-catolica-vs-cruzeiro-esporte-clube-0900-07-05-2026/452187" http-user-agent="Mozilla/5.0",⚽ Univ Catolica vs Cruzeiro Esporte Clube | 09:00 07/05
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/univ-catolica-vs-cruzeiro-esporte-clube-0900-07-05-2026/452187
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8
+#EXTINF:-1 tvg-name="⚽ Alianza Atletico Sullana vs America de Cali | 09:00 07/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-75783084e25b.webp?v=1778116510" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/alianza-atletico-sullana-vs-america-de-cali-0900-07-05-2026/452181" http-user-agent="Mozilla/5.0",⚽ Alianza Atletico Sullana vs America de Cali | 09:00 07/05
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/alianza-atletico-sullana-vs-america-de-cali-0900-07-05-2026/452181
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8
