@@ -1,14 +1,42 @@
 #EXTM3U x-playlist-title="ThapCam Live Sports"
-# Cap nhat: 2026-05-07 08:00 UTC
-#EXTINF:-1 tvg-name="⚽ Korea University vs Chung Ang University | 14:00 07/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-09421be3e802.webp?v=1778140457" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/korea-university-vs-chung-ang-university-1400-07-05-2026/466614" http-user-agent="Mozilla/5.0",⚽ Korea University vs Chung Ang University | 14:00 07/05
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/korea-university-vs-chung-ang-university-1400-07-05-2026/466614
+# Cap nhat: 2026-05-07 10:35 UTC
+#EXTINF:-1 tvg-name="⚽ Alexei Popyrin vs Matteo Berrettini | 16:00 07/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-0f10dded0a12.webp?v=1778150070" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/alexei-popyrin-vs-matteo-berrettini-1600-07-05-2026/460035" http-user-agent="Mozilla/5.0",⚽ Alexei Popyrin vs Matteo Berrettini | 16:00 07/05
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/alexei-popyrin-vs-matteo-berrettini-1600-07-05-2026/460035
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.alilicloud.com/live/80f13c7c69dabecca2259be384c8cf04/playlist.m3u8
-#EXTINF:-1 tvg-name="⚽ Dongguk University vs Sangmyung University | 14:00 07/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-0addfcc07e11.webp?v=1778140458" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/dongguk-university-vs-sangmyung-university-1400-07-05-2026/466611" http-user-agent="Mozilla/5.0",⚽ Dongguk University vs Sangmyung University | 14:00 07/05
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/dongguk-university-vs-sangmyung-university-1400-07-05-2026/466611
+https://cdn-hls.phogatv8.com/live/69fc555f137e4_9657/index.m3u8?expire=1778749407&sign=d77f78eb0896ebd1a124af5383618c1b
+#EXTINF:-1 tvg-name="⚽ VSA U22 vs BC Wings | 17:00 07/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-8077088a407b.webp?v=1778150071" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/vsa-u22-vs-bc-wings-1700-07-05-2026/466632" http-user-agent="Mozilla/5.0",⚽ VSA U22 vs BC Wings | 17:00 07/05
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/vsa-u22-vs-bc-wings-1700-07-05-2026/466632
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.alilicloud.com/live/d7fa683f6185df2e65cf80ba2444f513/playlist.m3u8
-#EXTINF:-1 tvg-name="⚽ Taranaki Mountainairs vs Southland Sharks | 14:00 07/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-effbd9c1318d.webp?v=1778140458" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/taranaki-mountainairs-vs-southland-sharks-1400-07-05-2026/452685" http-user-agent="Mozilla/5.0",⚽ Taranaki Mountainairs vs Southland Sharks | 14:00 07/05
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/taranaki-mountainairs-vs-southland-sharks-1400-07-05-2026/452685
+https://live.alilicloud.com/live/e4263534d1534cd95d6057bf8ee3f404/playlist.m3u8
+#EXTINF:-1 tvg-name="⚽ Bacolod Tubo Slashers vs Caloocan Batang Kankaloo | 17:00 07/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-0822a674024d.webp?v=1778150072" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/bacolod-tubo-slashers-vs-caloocan-batang-kankaloo-1700-07-05-2026/452691" http-user-agent="Mozilla/5.0",⚽ Bacolod Tubo Slashers vs Caloocan Batang Kankaloo | 17:00 07/05
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/bacolod-tubo-slashers-vs-caloocan-batang-kankaloo-1700-07-05-2026/452691
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.alilicloud.com/live/0b88e6a908155138c75b3665265046ea/playlist.m3u8
+https://live.alilicloud.com/live/dc17f5ea7b2994f519fea594b5266ed5/playlist.m3u8
+#EXTINF:-1 tvg-name="⚽ Goyang Sono Skygunners vs Busan KCC Egis | 17:00 07/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-b8ab3ed37f47.webp?v=1778150072" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/goyang-sono-skygunners-vs-busan-kcc-egis-1700-07-05-2026/454536" http-user-agent="Mozilla/5.0",⚽ Goyang Sono Skygunners vs Busan KCC Egis | 17:00 07/05
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/goyang-sono-skygunners-vs-busan-kcc-egis-1700-07-05-2026/454536
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.alilicloud.com/live/91895075d45095cdbc373691740fa70d/playlist.m3u8
+#EXTINF:-1 tvg-name="⚽ Nagasaki Velca vs Alvark Tokyo | 17:05 07/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-98a24491e253.webp?v=1778150071" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/nagasaki-velca-vs-alvark-tokyo-1705-07-05-2026/463602" http-user-agent="Mozilla/5.0",⚽ Nagasaki Velca vs Alvark Tokyo | 17:05 07/05
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/nagasaki-velca-vs-alvark-tokyo-1705-07-05-2026/463602
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.alilicloud.com/live/b8b9f84258a2a7b6bfe4f5652c2d8c46/playlist.m3u8
+#EXTINF:-1 tvg-name="⚽ Federico Cina vs Alexander Blockx | 17:20 07/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-ed7fb3576719.webp?v=1778150069" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/federico-cina-vs-alexander-blockx-1720-07-05-2026/459984" http-user-agent="Mozilla/5.0",⚽ Federico Cina vs Alexander Blockx | 17:20 07/05
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/federico-cina-vs-alexander-blockx-1720-07-05-2026/459984
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8
+#EXTINF:-1 tvg-name="⚽ Marcos Giron vs Marin Cilic | 17:40 07/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-f6450d75c056.webp?v=1778150071" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/marcos-giron-vs-marin-cilic-1740-07-05-2026/460023" http-user-agent="Mozilla/5.0",⚽ Marcos Giron vs Marin Cilic | 17:40 07/05
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/marcos-giron-vs-marin-cilic-1740-07-05-2026/460023
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cdn-hls.phogatv8.com/live/69fc61fb137e4_26/index.m3u8?expire=1778752635&sign=586075fb229e7815c2ba4c896b156eb5
+#EXTINF:-1 tvg-name="⚽ Roberto Bautista Agut vs Francesco Maestrelli | 18:30 07/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-e4c802f66418.webp?v=1778150069" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/roberto-bautista-agut-vs-francesco-maestrelli-1830-07-05-2026/460029" http-user-agent="Mozilla/5.0",⚽ Roberto Bautista Agut vs Francesco Maestrelli | 18:30 07/05
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/roberto-bautista-agut-vs-francesco-maestrelli-1830-07-05-2026/460029
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8
+#EXTINF:-1 tvg-name="⚽ China U17 Women vs Thailand U17 Women | 18:30 07/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-1c132790d4fd.webp?v=1778150070" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/china-u17-women-vs-thailand-u17-women-1830-07-05-2026/452250" http-user-agent="Mozilla/5.0",⚽ China U17 Women vs Thailand U17 Women | 18:30 07/05
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/china-u17-women-vs-thailand-u17-women-1830-07-05-2026/452250
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8
+#EXTINF:-1 tvg-name="⚽ Vietnam U17 Women vs Myanmar U17 Women | 18:30 07/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-18b7ce739f88.webp?v=1778150070" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/vietnam-u17-women-vs-myanmar-u17-women-1830-07-05-2026/452253" http-user-agent="Mozilla/5.0",⚽ Vietnam U17 Women vs Myanmar U17 Women | 18:30 07/05
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/vietnam-u17-women-vs-myanmar-u17-women-1830-07-05-2026/452253
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8
