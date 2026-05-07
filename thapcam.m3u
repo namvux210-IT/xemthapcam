@@ -1,6 +1,14 @@
 #EXTM3U x-playlist-title="ThapCam Live Sports"
-# Cap nhat: 2026-05-07 05:01 UTC
-#EXTINF:-1 tvg-name="⚽ Caballeros de Culiacán vs Pioneros de Los Mochis | 10:15 07/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-99a454d217a7.webp?v=1778129055" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/caballeros-de-culiacan-vs-pioneros-de-los-mochis-1015-07-05-2026/466035" http-user-agent="Mozilla/5.0",⚽ Caballeros de Culiacán vs Pioneros de Los Mochis | 10:15 07/05
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/caballeros-de-culiacan-vs-pioneros-de-los-mochis-1015-07-05-2026/466035
+# Cap nhat: 2026-05-07 08:00 UTC
+#EXTINF:-1 tvg-name="⚽ Korea University vs Chung Ang University | 14:00 07/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-09421be3e802.webp?v=1778140457" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/korea-university-vs-chung-ang-university-1400-07-05-2026/466614" http-user-agent="Mozilla/5.0",⚽ Korea University vs Chung Ang University | 14:00 07/05
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/korea-university-vs-chung-ang-university-1400-07-05-2026/466614
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.alilicloud.com/live/267185acfee1ec4c2aba0896ca2b860d/playlist.m3u8
+https://live.alilicloud.com/live/80f13c7c69dabecca2259be384c8cf04/playlist.m3u8
+#EXTINF:-1 tvg-name="⚽ Dongguk University vs Sangmyung University | 14:00 07/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-0addfcc07e11.webp?v=1778140458" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/dongguk-university-vs-sangmyung-university-1400-07-05-2026/466611" http-user-agent="Mozilla/5.0",⚽ Dongguk University vs Sangmyung University | 14:00 07/05
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/dongguk-university-vs-sangmyung-university-1400-07-05-2026/466611
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.alilicloud.com/live/d7fa683f6185df2e65cf80ba2444f513/playlist.m3u8
+#EXTINF:-1 tvg-name="⚽ Taranaki Mountainairs vs Southland Sharks | 14:00 07/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-effbd9c1318d.webp?v=1778140458" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/taranaki-mountainairs-vs-southland-sharks-1400-07-05-2026/452685" http-user-agent="Mozilla/5.0",⚽ Taranaki Mountainairs vs Southland Sharks | 14:00 07/05
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/taranaki-mountainairs-vs-southland-sharks-1400-07-05-2026/452685
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.alilicloud.com/live/0b88e6a908155138c75b3665265046ea/playlist.m3u8
