@@ -1,22 +1,22 @@
 #EXTM3U x-playlist-title="ThapCam Live Sports"
-# Cap nhat: 2026-05-07 22:09 UTC
-#EXTINF:-1 tvg-name="⚽ Luis Miguel vs Juan Manuel La Serna | 04:00 08/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-cc9940d88780.webp?v=1778191463" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/luis-miguel-vs-juan-manuel-la-serna-0400-08-05-2026/446502" http-user-agent="Mozilla/5.0",⚽ Luis Miguel vs Juan Manuel La Serna | 04:00 08/05
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/luis-miguel-vs-juan-manuel-la-serna-0400-08-05-2026/446502
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.alilicloud.com/live/1b785a74433b6fbc1ba240e03f97c665/playlist.m3u8
-#EXTINF:-1 tvg-name="⚽ Mirassol vs Liga Dep Universitaria Quito | 05:00 08/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-324e16c56b64.webp?v=1778191462" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/mirassol-vs-liga-dep-universitaria-quito-0500-08-05-2026/455832" http-user-agent="Mozilla/5.0",⚽ Mirassol vs Liga Dep Universitaria Quito | 05:00 08/05
+# Cap nhat: 2026-05-07 23:12 UTC
+#EXTINF:-1 tvg-name="⚽ Mirassol vs Liga Dep Universitaria Quito | 05:00 08/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-324e16c56b64.webp?v=1778195063" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/mirassol-vs-liga-dep-universitaria-quito-0500-08-05-2026/455832" http-user-agent="Mozilla/5.0",⚽ Mirassol vs Liga Dep Universitaria Quito | 05:00 08/05
 #EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/mirassol-vs-liga-dep-universitaria-quito-0500-08-05-2026/455832
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://cdn-hls.phogatv8.com/live/69fd0236137e4_181/index.m3u8?expire=1778793654&sign=ecc3ce55d3697fc5e0c66e07273169e8
-#EXTINF:-1 tvg-name="⚽ Boston River vs Millonarios | 05:00 08/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-c9a988b93b3a.webp?v=1778191462" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/boston-river-vs-millonarios-0500-08-05-2026/455823" http-user-agent="Mozilla/5.0",⚽ Boston River vs Millonarios | 05:00 08/05
+#EXTINF:-1 tvg-name="⚽ Sabios de Manizales vs Caimanes del Llano | 05:00 08/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-eb52fb45cf4a.webp?v=1778195063" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/sabios-de-manizales-vs-caimanes-del-llano-0500-08-05-2026/454557" http-user-agent="Mozilla/5.0",⚽ Sabios de Manizales vs Caimanes del Llano | 05:00 08/05
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/sabios-de-manizales-vs-caimanes-del-llano-0500-08-05-2026/454557
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.alilicloud.com/live/79167f940e83e3cea1e1210cf0f67fe5/playlist.m3u8
+#EXTINF:-1 tvg-name="⚽ Boston River vs Millonarios | 05:00 08/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-c9a988b93b3a.webp?v=1778195064" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/boston-river-vs-millonarios-0500-08-05-2026/455823" http-user-agent="Mozilla/5.0",⚽ Boston River vs Millonarios | 05:00 08/05
 #EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/boston-river-vs-millonarios-0500-08-05-2026/455823
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://cdn-hls.phogatv8.com/live/69fd070f51ddc_11/index.m3u8?expire=1778794895&sign=4b73d3296c028f370ef266e370e8229d
-#EXTINF:-1 tvg-name="⚽ Paulistano Amil vs E.c. Pinheiros Sao Paolo | 05:00 08/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-834f4fdc4989.webp?v=1778191463" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/paulistano-amil-vs-ec-pinheiros-sao-paolo-0500-08-05-2026/454560" http-user-agent="Mozilla/5.0",⚽ Paulistano Amil vs E.c. Pinheiros Sao Paolo | 05:00 08/05
+#EXTINF:-1 tvg-name="⚽ Paulistano Amil vs E.c. Pinheiros Sao Paolo | 05:00 08/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-834f4fdc4989.webp?v=1778195064" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/paulistano-amil-vs-ec-pinheiros-sao-paolo-0500-08-05-2026/454560" http-user-agent="Mozilla/5.0",⚽ Paulistano Amil vs E.c. Pinheiros Sao Paolo | 05:00 08/05
 #EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/paulistano-amil-vs-ec-pinheiros-sao-paolo-0500-08-05-2026/454560
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live.alilicloud.com/live/467e6e084e11b0ea30b1cf874b9e546e/playlist.m3u8
-#EXTINF:-1 tvg-name="⚽ Detroit Pistons vs Cleveland Cavaliers | 06:00 08/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-3d27e44f2d4a.webp?v=1778191463" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/detroit-pistons-vs-cleveland-cavaliers-0600-08-05-2026/459024" http-user-agent="Mozilla/5.0",⚽ Detroit Pistons vs Cleveland Cavaliers | 06:00 08/05
+#EXTINF:-1 tvg-name="⚽ Detroit Pistons vs Cleveland Cavaliers | 06:00 08/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-3d27e44f2d4a.webp?v=1778195064" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/detroit-pistons-vs-cleveland-cavaliers-0600-08-05-2026/459024" http-user-agent="Mozilla/5.0",⚽ Detroit Pistons vs Cleveland Cavaliers | 06:00 08/05
 #EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/detroit-pistons-vs-cleveland-cavaliers-0600-08-05-2026/459024
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8
+https://cdn-hls.phogatv8.com/live/69fd16d851ddc_9657/index.m3u8?expire=1778798936&sign=2f28037715f494b95f5ce4b1d3244899
