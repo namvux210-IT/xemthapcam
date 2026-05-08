@@ -1,14 +1,18 @@
 #EXTM3U x-playlist-title="ThapCam Live Sports"
-# Cap nhat: 2026-05-08 03:55 UTC
-#EXTINF:-1 tvg-name="⚽ Oklahoma City Thunder vs Los Angeles Lakers | 08:30 08/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-b3d73befced1.webp?v=1778212458" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/oklahoma-city-thunder-vs-los-angeles-lakers-0830-08-05-2026/457404" http-user-agent="Mozilla/5.0",⚽ Oklahoma City Thunder vs Los Angeles Lakers | 08:30 08/05
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/oklahoma-city-thunder-vs-los-angeles-lakers-0830-08-05-2026/457404
+# Cap nhat: 2026-05-08 06:05 UTC
+#EXTINF:-1 tvg-name="⚽ Lanlana Tararudee vs Yao Xinxin | 11:35 08/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-0f66eef88e98.webp?v=1778220263" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/lanlana-tararudee-vs-yao-xinxin--1135-08-05-2026/453036" http-user-agent="Mozilla/5.0",⚽ Lanlana Tararudee vs Yao Xinxin | 11:35 08/05
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/lanlana-tararudee-vs-yao-xinxin--1135-08-05-2026/453036
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn-hls.phogatv8.com/live/69fd3be1137e4_742/index.m3u8?expire=1778808417&sign=2edf7ee2ba428cf1fa2f33cb06f59a6f
-#EXTINF:-1 tvg-name="⚽ Lizette Cabrera vs Bai Zhuoxuan | 10:00 08/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-5de7d2a6126f.webp?v=1778212457" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/lizette-cabrera-vs-bai-zhuoxuan-1000-08-05-2026/453039" http-user-agent="Mozilla/5.0",⚽ Lizette Cabrera vs Bai Zhuoxuan | 10:00 08/05
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/lizette-cabrera-vs-bai-zhuoxuan-1000-08-05-2026/453039
+https://live.alilicloud.com/live/40484c7bc3098e514ec0bf7fb10b47cd/playlist.m3u8
+#EXTINF:-1 tvg-name="⚽ Li Y-Y / Li Z vs Lee Y / Ye Q Y | 11:50 08/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-20dc9ba4cc9f.webp?v=1778220262" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/li-yy--li-z-vs-lee-y--ye-q-y-1150-08-05-2026/453042" http-user-agent="Mozilla/5.0",⚽ Li Y-Y / Li Z vs Lee Y / Ye Q Y | 11:50 08/05
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/li-yy--li-z-vs-lee-y--ye-q-y-1150-08-05-2026/453042
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.alilicloud.com/live/366b8f1eff3069245d58e8d6e9a87f15/playlist.m3u8
-#EXTINF:-1 tvg-name="⚽ Momoko Kobori/Ayano Shimizu vs Micic E / Shimizu E | 10:05 08/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-2b30cb753522.webp?v=1778212457" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/momoko-koboriayano-shimizu-vs-micic-e--shimizu-e-1005-08-05-2026/453051" http-user-agent="Mozilla/5.0",⚽ Momoko Kobori/Ayano Shimizu vs Micic E / Shimizu E | 10:05 08/05
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/momoko-koboriayano-shimizu-vs-micic-e--shimizu-e-1005-08-05-2026/453051
+https://live.alilicloud.com/live/a1306a329f19b7cffca20bffb043d893/playlist.m3u8
+#EXTINF:-1 tvg-name="⚽ Suwon University Women vs Gwangju University Women | 12:00 08/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-2c0dd38b37c9.webp?v=1778220261" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/suwon-university-women-vs-gwangju-university-women-1200-08-05-2026/466701" http-user-agent="Mozilla/5.0",⚽ Suwon University Women vs Gwangju University Women | 12:00 08/05
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/suwon-university-women-vs-gwangju-university-women-1200-08-05-2026/466701
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.alilicloud.com/live/e1d0c2633adf8a835540ad9ae226ff9b/playlist.m3u8
+https://live.alilicloud.com/live/51359d394f4930918e496becbab86d12/playlist.m3u8
+#EXTINF:-1 tvg-name="⚽ Gwangju Womens University Women vs Dankook University Women | 12:00 08/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-c6a4942e6083.webp?v=1778220262" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/gwangju-womens-university-women-vs-dankook-university-women-1200-08-05-2026/466698" http-user-agent="Mozilla/5.0",⚽ Gwangju Womens University Women vs Dankook University Women | 12:00 08/05
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/gwangju-womens-university-women-vs-dankook-university-women-1200-08-05-2026/466698
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.alilicloud.com/live/5150609063de9fe9298f32693c051eb0/playlist.m3u8
