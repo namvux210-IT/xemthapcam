@@ -1,14 +1,14 @@
 #EXTM3U x-playlist-title="ThapCam Live Sports"
-# Cap nhat: 2026-05-08 00:10 UTC
-#EXTINF:-1 tvg-name="⚽ Paulistano Amil vs E.c. Pinheiros Sao Paolo | 05:00 08/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-834f4fdc4989.webp?v=1778198665" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/paulistano-amil-vs-ec-pinheiros-sao-paolo-0500-08-05-2026/454560" http-user-agent="Mozilla/5.0",⚽ Paulistano Amil vs E.c. Pinheiros Sao Paolo | 05:00 08/05
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/paulistano-amil-vs-ec-pinheiros-sao-paolo-0500-08-05-2026/454560
+# Cap nhat: 2026-05-08 03:55 UTC
+#EXTINF:-1 tvg-name="⚽ Oklahoma City Thunder vs Los Angeles Lakers | 08:30 08/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-b3d73befced1.webp?v=1778212458" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/oklahoma-city-thunder-vs-los-angeles-lakers-0830-08-05-2026/457404" http-user-agent="Mozilla/5.0",⚽ Oklahoma City Thunder vs Los Angeles Lakers | 08:30 08/05
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/oklahoma-city-thunder-vs-los-angeles-lakers-0830-08-05-2026/457404
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.alilicloud.com/live/467e6e084e11b0ea30b1cf874b9e546e/playlist.m3u8
-#EXTINF:-1 tvg-name="⚽ Detroit Pistons vs Cleveland Cavaliers | 06:00 08/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-3d27e44f2d4a.webp?v=1778198664" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/detroit-pistons-vs-cleveland-cavaliers-0600-08-05-2026/459024" http-user-agent="Mozilla/5.0",⚽ Detroit Pistons vs Cleveland Cavaliers | 06:00 08/05
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/detroit-pistons-vs-cleveland-cavaliers-0600-08-05-2026/459024
+https://cdn-hls.phogatv8.com/live/69fd3be1137e4_742/index.m3u8?expire=1778808417&sign=2edf7ee2ba428cf1fa2f33cb06f59a6f
+#EXTINF:-1 tvg-name="⚽ Lizette Cabrera vs Bai Zhuoxuan | 10:00 08/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-5de7d2a6126f.webp?v=1778212457" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/lizette-cabrera-vs-bai-zhuoxuan-1000-08-05-2026/453039" http-user-agent="Mozilla/5.0",⚽ Lizette Cabrera vs Bai Zhuoxuan | 10:00 08/05
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/lizette-cabrera-vs-bai-zhuoxuan-1000-08-05-2026/453039
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn-hls.phogatv8.com/live/69fd16d851ddc_9657/index.m3u8?expire=1778798936&sign=2f28037715f494b95f5ce4b1d3244899
-#EXTINF:-1 tvg-name="⚽ Dep.Independiente Medellin vs CR Flamengo | 07:30 08/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-e1ae6de68c8c.webp?v=1778198664" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/depindependiente-medellin-vs-cr-flamengo-0730-08-05-2026/455847" http-user-agent="Mozilla/5.0",⚽ Dep.Independiente Medellin vs CR Flamengo | 07:30 08/05
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/depindependiente-medellin-vs-cr-flamengo-0730-08-05-2026/455847
+https://live.alilicloud.com/live/366b8f1eff3069245d58e8d6e9a87f15/playlist.m3u8
+#EXTINF:-1 tvg-name="⚽ Momoko Kobori/Ayano Shimizu vs Micic E / Shimizu E | 10:05 08/05" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-2b30cb753522.webp?v=1778212457" group-title="🔴 Live" http-referrer="https://thapcamtvbc.mobi/truc-tiep/momoko-koboriayano-shimizu-vs-micic-e--shimizu-e-1005-08-05-2026/453051" http-user-agent="Mozilla/5.0",⚽ Momoko Kobori/Ayano Shimizu vs Micic E / Shimizu E | 10:05 08/05
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/momoko-koboriayano-shimizu-vs-micic-e--shimizu-e-1005-08-05-2026/453051
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn-hls.phogatv8.com/live/69fd24a9137e4_11241/index.m3u8?expire=1778802473&sign=5114ae56c2b6d8d548be4b9174fe9986
+https://live.alilicloud.com/live/e1d0c2633adf8a835540ad9ae226ff9b/playlist.m3u8
